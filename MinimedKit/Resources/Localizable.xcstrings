@@ -1061,8 +1061,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Auto-Off Alarm"
+            "state" : "translated",
+            "value" : "Auto-av larm"
           }
         },
         "tr" : {
@@ -1335,8 +1335,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Battery Depleted"
+            "state" : "translated",
+            "value" : "Batteri tömt"
           }
         },
         "tr" : {
@@ -1472,8 +1472,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Battery Out Limit"
+            "state" : "translated",
+            "value" : "Gräns för batterinivå"
           }
         },
         "tr" : {
@@ -1609,8 +1609,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "BatteryIssue17"
+            "state" : "translated",
+            "value" : "Batterifel17"
           }
         },
         "tr" : {
@@ -1746,7 +1746,7 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "BatteryIssue21"
           }
         },
@@ -2294,8 +2294,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Bolus may have failed: %1$@"
+            "state" : "translated",
+            "value" : "Bolus kan ha misslyckats: %1$@"
           }
         },
         "tr" : {
@@ -2431,8 +2431,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Canada"
+            "state" : "translated",
+            "value" : "Kanada"
           }
         },
         "tr" : {
@@ -2705,8 +2705,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Change Basal Profile Schedule"
+            "state" : "translated",
+            "value" : "Ändra basalprofilschema"
           }
         },
         "tr" : {
@@ -2842,8 +2842,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Change Basal Schedule"
+            "state" : "translated",
+            "value" : "Ändra basalschema"
           }
         },
         "tr" : {
@@ -3527,8 +3527,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Clear Alarm"
+            "state" : "translated",
+            "value" : "Rensa larm"
           }
         },
         "tr" : {
@@ -4232,8 +4232,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Device Reset"
+            "state" : "translated",
+            "value" : "Återställ enhet"
           }
         },
         "tr" : {
@@ -4917,8 +4917,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Go to pump settings and select insulin type"
+            "state" : "translated",
+            "value" : "Gå till pumpens inställningar och välj insulintyp"
           }
         },
         "tr" : {
@@ -5465,8 +5465,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Insulin Type is not configured"
+            "state" : "translated",
+            "value" : "Du måste välja typ av insulin"
           }
         },
         "tr" : {
@@ -5876,8 +5876,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Loop sent a bolus command to the pump, but was unable to confirm that the pump received the command. For safety, Loop will assume the bolus was delivered. When Loop eventually fetches history from the pump, and the estimated bolus finish time is passed, Loop will update its records of delivery to match what the pump reports."
+            "state" : "translated",
+            "value" : "Loop skickade ett bolus-kommando till pumpen, men kunde inte bekräfta att pumpen fick kommandot. För säkerhets skull kommer Loop anta att bolus levererades. När Loop så småningom hämtar historia från pumpen, och den uppskattade bolus tid passeras, Loop kommer att uppdatera sina register över leverans för att matcha vad pumpen rapporterar."
           }
         },
         "tr" : {
@@ -6835,7 +6835,7 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Minimed"
           }
         },
@@ -7253,8 +7253,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "New Time"
+            "state" : "translated",
+            "value" : "Ny tid"
           }
         },
         "tr" : {
@@ -7390,8 +7390,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "No Delivery Alarm"
+            "state" : "translated",
+            "value" : "Inget leveranslarm"
           }
         },
         "tr" : {
@@ -8075,8 +8075,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Percent Temp Basal"
+            "state" : "translated",
+            "value" : "Procentuell temp. basal"
           }
         },
         "tr" : {
@@ -8212,8 +8212,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Please check your pump bolus history to determine if the bolus was delivered."
+            "state" : "translated",
+            "value" : "Kontrollera din pumpbolushistorik för att avgöra om bolusen levererades."
           }
         },
         "tr" : {
@@ -8349,8 +8349,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Prime"
+            "state" : "translated",
+            "value" : "Förfyll"
           }
         },
         "tr" : {
@@ -9041,8 +9041,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Pump is Suspended"
+            "state" : "translated",
+            "value" : "Pumpen är pausad"
           }
         },
         "tr" : {
@@ -9739,7 +9739,7 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Reprogram Error"
           }
         },
@@ -10150,8 +10150,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Rewind"
+            "state" : "translated",
+            "value" : "Backa"
           }
         },
         "tr" : {
@@ -10561,8 +10561,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Select Profile"
+            "state" : "translated",
+            "value" : "Välj profil"
           }
         },
         "tr" : {
@@ -11657,8 +11657,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Unexpected response %1$@"
+            "state" : "translated",
+            "value" : "Oväntat svar %1$@"
           }
         },
         "tr" : {
@@ -11794,8 +11794,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Unknown Alarm"
+            "state" : "translated",
+            "value" : "Okänt larm"
           }
         },
         "tr" : {
