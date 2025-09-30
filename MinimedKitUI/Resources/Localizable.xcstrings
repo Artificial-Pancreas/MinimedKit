@@ -525,8 +525,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "%1$@ basal schedule entries\n"
+            "state" : "translated",
+            "value" : "%1$@ записів базального графіка"
           }
         },
         "vi" : {
@@ -662,8 +662,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "%1$@ Units of insulin remaining\n"
+            "state" : "translated",
+            "value" : "Залишилося %1$@ одиниць інсуліну"
           }
         },
         "vi" : {
@@ -1483,8 +1483,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Battery Chemistry"
+            "state" : "translated",
+            "value" : "Хімія (вид) акумуляторів"
           }
         },
         "vi" : {
@@ -1620,8 +1620,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Battery: %1$@ volts\n"
+            "state" : "translated",
+            "value" : "Батарея: %1$@ вольт\n"
           }
         },
         "vi" : {
@@ -1894,8 +1894,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Bolusing: %1$@\n"
+            "state" : "translated",
+            "value" : "Болюс: %1$@\n"
           }
         },
         "vi" : {
@@ -6003,8 +6003,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "On your pump, go to the Find Device screen and select \"Find Device\".\n\nMain Menu >\nUtilities >\nConnect Devices >\nOther Devices >\nOn >\nFind Device"
+            "state" : "translated",
+            "value" : "На помпі перейдіть на екран «Знайти пристрій» і виберіть «Знайти пристрій».\n\nГоловне меню >\nУтиліти >\nПідключення пристроїв >\nІнші пристрої >\nУвімкнено >\nЗнайти пристрій"
           }
         },
         "vi" : {
@@ -8469,8 +8469,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Suspended: %1$@\n"
+            "state" : "translated",
+            "value" : "Призупинено: %1$@ "
           }
         },
         "vi" : {
