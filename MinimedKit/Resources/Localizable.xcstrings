@@ -251,8 +251,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "%1$@ U left"
+            "state" : "translated",
+            "value" : "%1$@ U залишилося"
           }
         },
         "vi" : {
@@ -388,8 +388,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "%1$@ U left: %2$@"
+            "state" : "translated",
+            "value" : "%1$@ U залишилось: %2$@"
           }
         },
         "vi" : {
@@ -1073,8 +1073,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Auto-Off Alarm"
+            "state" : "translated",
+            "value" : "Авто-відключення сигналу"
           }
         },
         "vi" : {
@@ -1347,8 +1347,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Battery Depleted"
+            "state" : "translated",
+            "value" : "Розряджена батарея"
           }
         },
         "vi" : {
@@ -1484,8 +1484,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Battery Out Limit"
+            "state" : "translated",
+            "value" : "Ліміт розряду батареї"
           }
         },
         "vi" : {
@@ -1621,8 +1621,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "BatteryIssue17"
+            "state" : "translated",
+            "value" : "Проблема з батареєю 17"
           }
         },
         "vi" : {
@@ -1758,8 +1758,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "BatteryIssue21"
+            "state" : "translated",
+            "value" : "Проблема з батареєю 21"
           }
         },
         "vi" : {
@@ -2169,8 +2169,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Bolus in Progress"
+            "state" : "translated",
+            "value" : "Болюс триває"
           }
         },
         "vi" : {
@@ -2306,8 +2306,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Bolus may have failed: %1$@"
+            "state" : "translated",
+            "value" : "Можливо, болюс не вдався: %1$@"
           }
         },
         "vi" : {
@@ -2443,8 +2443,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Canada"
+            "state" : "translated",
+            "value" : "Канада"
           }
         },
         "vi" : {
@@ -2717,8 +2717,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Change Basal Profile Schedule"
+            "state" : "translated",
+            "value" : "Зміна розкладу базального профілю"
           }
         },
         "vi" : {
@@ -2854,8 +2854,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Change Basal Schedule"
+            "state" : "translated",
+            "value" : "Зміна базального графіка"
           }
         },
         "vi" : {
@@ -2991,8 +2991,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Change the pump battery immediately"
+            "state" : "translated",
+            "value" : "Негайно замініть батарейку помпи"
           }
         },
         "vi" : {
@@ -3128,8 +3128,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Change the pump reservoir now"
+            "state" : "translated",
+            "value" : "Замініть резервуар насоса зараз"
           }
         },
         "vi" : {
@@ -3265,8 +3265,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Change Time"
+            "state" : "translated",
+            "value" : "Змінити час"
           }
         },
         "vi" : {
@@ -3539,8 +3539,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Clear Alarm"
+            "state" : "translated",
+            "value" : "Очистити сигнал тривоги"
           }
         },
         "vi" : {
@@ -4244,8 +4244,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Device Reset"
+            "state" : "translated",
+            "value" : "Скидання налаштувань пристрою"
           }
         },
         "vi" : {
@@ -4792,8 +4792,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Glucose page failed crc check"
+            "state" : "translated",
+            "value" : "Сторінка глюкози не пройшла перевірку CRC"
           }
         },
         "vi" : {
@@ -4929,8 +4929,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Go to pump settings and select insulin type"
+            "state" : "translated",
+            "value" : "Перейдіть до налаштувань помпи та виберіть тип інсуліну"
           }
         },
         "vi" : {
@@ -5066,8 +5066,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "History page does not exist"
+            "state" : "translated",
+            "value" : "Сторінка історії не існує"
           }
         },
         "vi" : {
@@ -5203,8 +5203,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "History page failed crc check"
+            "state" : "translated",
+            "value" : "Сторінка історії не пройшла перевірку CRC"
           }
         },
         "vi" : {
@@ -5477,8 +5477,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Insulin Type is not configured"
+            "state" : "translated",
+            "value" : "Тип інсуліну не налаштовано"
           }
         },
         "vi" : {
@@ -5888,8 +5888,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Loop sent a bolus command to the pump, but was unable to confirm that the pump received the command. For safety, Loop will assume the bolus was delivered. When Loop eventually fetches history from the pump, and the estimated bolus finish time is passed, Loop will update its records of delivery to match what the pump reports."
+            "state" : "translated",
+            "value" : "Петля надіслав команду болюса на помпу, але не зміг підтвердити, що помпа отримала команду. З міркувань безпеки Петля вважатиме, що болюс було подано. Коли Петля врешті-решт отримає історію з помпи, і приблизний час завершення болюса мине то Петля оновить свої записи про подачу, щоб вони відповідали звітам помпи."
           }
         },
         "vi" : {
@@ -6847,7 +6847,7 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Minimed"
           }
         },
@@ -7265,8 +7265,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "New Time"
+            "state" : "translated",
+            "value" : "Новий час"
           }
         },
         "vi" : {
@@ -7402,8 +7402,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "No Delivery Alarm"
+            "state" : "translated",
+            "value" : "Сигналізація відсутня"
           }
         },
         "vi" : {
@@ -7539,8 +7539,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "No RileyLink Connected"
+            "state" : "translated",
+            "value" : "RileyLink не підключено"
           }
         },
         "vi" : {
@@ -8087,8 +8087,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Percent Temp Basal"
+            "state" : "translated",
+            "value" : "Відсоток Тимчасової Базальної Швидкості (ТБШ)"
           }
         },
         "vi" : {
@@ -8224,8 +8224,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Please check your pump bolus history to determine if the bolus was delivered."
+            "state" : "translated",
+            "value" : "Будь ласка, перевірте історію болюсів вашої помпи, щоб визначити, чи було введено болюс."
           }
         },
         "vi" : {
@@ -8361,8 +8361,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Prime"
+            "state" : "translated",
+            "value" : "Прайм\n"
           }
         },
         "vi" : {
@@ -8498,8 +8498,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Pump Battery Low"
+            "state" : "translated",
+            "value" : "Низький рівень заряду батареї помпи"
           }
         },
         "vi" : {
@@ -9053,8 +9053,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Pump is Suspended"
+            "state" : "translated",
+            "value" : "Помпу призупинено"
           }
         },
         "vi" : {
@@ -9190,8 +9190,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Pump Reservoir Empty"
+            "state" : "translated",
+            "value" : "Резервуар помпи порожній"
           }
         },
         "vi" : {
@@ -9327,8 +9327,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Pump Reservoir Low"
+            "state" : "translated",
+            "value" : "Низький рівень у резервуара помпи"
           }
         },
         "vi" : {
@@ -9751,8 +9751,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Reprogram Error"
+            "state" : "translated",
+            "value" : "Помилка перепрограмування"
           }
         },
         "vi" : {
@@ -10162,8 +10162,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Rewind"
+            "state" : "translated",
+            "value" : "Перемотування назад"
           }
         },
         "vi" : {
@@ -10573,8 +10573,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Select Profile"
+            "state" : "translated",
+            "value" : "Вибір профілю"
           }
         },
         "vi" : {
@@ -11532,8 +11532,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Unable to store pump data"
+            "state" : "translated",
+            "value" : "Не вдалося зберегти дані помпи"
           }
         },
         "vi" : {
@@ -11669,8 +11669,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Unexpected response %1$@"
+            "state" : "translated",
+            "value" : "Неочікувана відповідь %1$@"
           }
         },
         "vi" : {
@@ -11806,8 +11806,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Unknown Alarm"
+            "state" : "translated",
+            "value" : "Невідомий сигнал тривого"
           }
         },
         "vi" : {
@@ -11943,8 +11943,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Unknown glucose record type: %$1@"
+            "state" : "translated",
+            "value" : "Невідомий тип запису глюкози: %$1@"
           }
         },
         "vi" : {
@@ -12080,8 +12080,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Unknown history record type: %$1@"
+            "state" : "translated",
+            "value" : "Невідомий тип запису історії: %$1@"
           }
         },
         "vi" : {
