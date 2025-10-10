@@ -359,7 +359,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zostáva %1$@ j: %2$@"
+            "value" : "Zostáva %1$@ J: %2$@"
           }
         },
         "sv" : {
@@ -1013,8 +1013,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Auto-Off Alarm"
+            "state" : "translated",
+            "value" : "Alarm automatického vypnutia"
           }
         },
         "sv" : {
@@ -1275,8 +1275,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Battery Depleted"
+            "state" : "translated",
+            "value" : "Vybitá batéria"
           }
         },
         "sv" : {
@@ -1406,8 +1406,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Battery Out Limit"
+            "state" : "translated",
+            "value" : "Limit vybitia batérie"
           }
         },
         "sv" : {
@@ -1537,7 +1537,7 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "BatteryIssue17"
           }
         },
@@ -1668,7 +1668,7 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "BatteryIssue21"
           }
         },
@@ -2061,8 +2061,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Bolus in Progress"
+            "state" : "translated",
+            "value" : "Prebieha bolus"
           }
         },
         "sv" : {
@@ -2192,8 +2192,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Bolus may have failed: %1$@"
+            "state" : "translated",
+            "value" : "Bolus mohol zlyhať: %1$@"
           }
         },
         "sv" : {
@@ -2323,8 +2323,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Canada"
+            "state" : "translated",
+            "value" : "Kanada"
           }
         },
         "sv" : {
@@ -2585,8 +2585,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Change Basal Profile Schedule"
+            "state" : "translated",
+            "value" : "Zmeniť rozvrh bazálneho profilu"
           }
         },
         "sv" : {
@@ -2716,8 +2716,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Change Basal Schedule"
+            "state" : "translated",
+            "value" : "Zmeniť bazálny rozvrh"
           }
         },
         "sv" : {
@@ -3109,8 +3109,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Change Time"
+            "state" : "translated",
+            "value" : "Zmeniť čas"
           }
         },
         "sv" : {
@@ -3371,8 +3371,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Clear Alarm"
+            "state" : "translated",
+            "value" : "Vypnúť alarm"
           }
         },
         "sv" : {
@@ -4046,8 +4046,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Device Reset"
+            "state" : "translated",
+            "value" : "Resetovanie zariadenia"
           }
         },
         "sv" : {
@@ -4570,8 +4570,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Glucose page failed crc check"
+            "state" : "translated",
+            "value" : "Stránka glykémie neprešla kontrolou CRC"
           }
         },
         "sv" : {
@@ -4701,8 +4701,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Go to pump settings and select insulin type"
+            "state" : "translated",
+            "value" : "Prejdite do nastavení pumpy a vyberte typ inzulínu"
           }
         },
         "sv" : {
@@ -4832,8 +4832,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "History page does not exist"
+            "state" : "translated",
+            "value" : "Stránka histórie neexistuje"
           }
         },
         "sv" : {
@@ -4963,8 +4963,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "History page failed crc check"
+            "state" : "translated",
+            "value" : "Stránka histórie neprešla kontrolou CRC"
           }
         },
         "sv" : {
@@ -5095,7 +5095,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Inzulín Suspendovaný"
+            "value" : "Inzulín pozastavený"
           }
         },
         "sv" : {
@@ -5225,8 +5225,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Insulin Type is not configured"
+            "state" : "translated",
+            "value" : "Typ inzulínu nie je nastavený"
           }
         },
         "sv" : {
@@ -5618,8 +5618,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Loop sent a bolus command to the pump, but was unable to confirm that the pump received the command. For safety, Loop will assume the bolus was delivered. When Loop eventually fetches history from the pump, and the estimated bolus finish time is passed, Loop will update its records of delivery to match what the pump reports."
+            "state" : "translated",
+            "value" : "iAPS odoslal príkaz na bolus do pumpy, ale nepodarilo sa potvrdiť, že pumpa príkaz prijala. Z bezpečnostných dôvodov iAPS predpokladá, že bolus bol podaný. Keď iAPS neskôr získa históriu z pumpy a uplynie odhadovaný čas ukončenia bolusu, iAPS aktualizuje svoje záznamy o podávaní tak, aby zodpovedali údajom, ktoré nahlási pumpa."
           }
         },
         "sv" : {
@@ -5881,7 +5881,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nízka hladina v rezervoári"
+            "value" : "Nízka hladina v zásobníku"
           }
         },
         "sv" : {
@@ -6535,7 +6535,7 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Minimed"
           }
         },
@@ -6935,8 +6935,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "New Time"
+            "state" : "translated",
+            "value" : "Nový čas"
           }
         },
         "sv" : {
@@ -7066,8 +7066,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "No Delivery Alarm"
+            "state" : "translated",
+            "value" : "Žiadny alarm o dodaní"
           }
         },
         "sv" : {
@@ -7197,8 +7197,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "No RileyLink Connected"
+            "state" : "translated",
+            "value" : "Žiadne pripojenie RileyLink"
           }
         },
         "sv" : {
@@ -7721,8 +7721,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Percent Temp Basal"
+            "state" : "translated",
+            "value" : "Percentuálny dočasný bazál"
           }
         },
         "sv" : {
@@ -7852,8 +7852,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Please check your pump bolus history to determine if the bolus was delivered."
+            "state" : "translated",
+            "value" : "Skontrolujte históriu bolusov na vašej pumpe, aby ste zistili, či bol bolus podaný."
           }
         },
         "sv" : {
@@ -7983,8 +7983,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Prime"
+            "state" : "translated",
+            "value" : "Plnenie"
           }
         },
         "sv" : {
@@ -8114,8 +8114,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Pump Battery Low"
+            "state" : "translated",
+            "value" : "Nízky stav batérie pumpy"
           }
         },
         "sv" : {
@@ -8645,8 +8645,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Pump is Suspended"
+            "state" : "translated",
+            "value" : "Pumpa je pozastavená"
           }
         },
         "sv" : {
@@ -8776,8 +8776,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Pump Reservoir Empty"
+            "state" : "translated",
+            "value" : "Zásobník pumpy je prázdny"
           }
         },
         "sv" : {
@@ -8907,8 +8907,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Pump Reservoir Low"
+            "state" : "translated",
+            "value" : "Nízka úroveň zásobniku pumpy"
           }
         },
         "sv" : {
@@ -9313,8 +9313,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Reprogram Error"
+            "state" : "translated",
+            "value" : "Chyba preprogramovania"
           }
         },
         "sv" : {
@@ -9445,7 +9445,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rezervoár"
+            "value" : "Zásobník"
           }
         },
         "sv" : {
@@ -9706,8 +9706,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Rewind"
+            "state" : "translated",
+            "value" : "Pretáčanie"
           }
         },
         "sv" : {
@@ -10099,8 +10099,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Select Profile"
+            "state" : "translated",
+            "value" : "Vybrať profil"
           }
         },
         "sv" : {
@@ -11016,8 +11016,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Unable to store pump data"
+            "state" : "translated",
+            "value" : "Nie je možné uložiť údaje o pumpe"
           }
         },
         "sv" : {
@@ -11147,8 +11147,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Unexpected response %1$@"
+            "state" : "translated",
+            "value" : "Neočakávaná odpoveď %1$@"
           }
         },
         "sv" : {
@@ -11278,8 +11278,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Unknown Alarm"
+            "state" : "translated",
+            "value" : "Neznámy alarm"
           }
         },
         "sv" : {
@@ -11409,8 +11409,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Unknown glucose record type: %$1@"
+            "state" : "translated",
+            "value" : "Neznámy typ záznamu glykémie: %$1@"
           }
         },
         "sv" : {
@@ -11540,8 +11540,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Unknown history record type: %$1@"
+            "state" : "translated",
+            "value" : "Neznámy typ záznamu histórie: %$1@"
           }
         },
         "sv" : {
