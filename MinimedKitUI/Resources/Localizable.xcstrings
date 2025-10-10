@@ -228,7 +228,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "%@ j"
+            "value" : "%@ J"
           }
         },
         "sv" : {
@@ -489,8 +489,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "%1$@ basal schedule entries\n"
+            "state" : "translated",
+            "value" : "%1$@ položky bazálneho plánu\n"
           }
         },
         "sv" : {
@@ -620,8 +620,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "%1$@ Units of insulin remaining\n"
+            "state" : "translated",
+            "value" : "%1$@ jednotiek inzulínu zostáva\n"
           }
         },
         "sv" : {
@@ -1405,8 +1405,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Battery Chemistry"
+            "state" : "translated",
+            "value" : "Chémia batérií"
           }
         },
         "sv" : {
@@ -1536,8 +1536,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Battery: %1$@ volts\n"
+            "state" : "translated",
+            "value" : "Batéria: %1$@ voltov\n"
           }
         },
         "sv" : {
@@ -1798,8 +1798,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Bolusing: %1$@\n"
+            "state" : "translated",
+            "value" : "Bolusovanie: %1$@\n"
           }
         },
         "sv" : {
@@ -4435,8 +4435,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Insulin\nSuspended"
+            "state" : "translated",
+            "value" : "Інсулін\nПризупинено"
           }
         },
         "vi" : {
@@ -8085,8 +8085,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Suspended: %1$@\n"
+            "state" : "translated",
+            "value" : "Pozastavené: %1$@\n"
           }
         },
         "sv" : {
@@ -8479,7 +8479,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Čas na Vašej pumpe sa líši od aktuálneho času. Chcete aktualizovať čas na vašej pumpe na aktuálny čas?"
+            "value" : "Čas na vašej pumpe sa líši od aktuálneho času. Chcete aktualizovať čas na vašej pumpe s aktuálnym čas?"
           }
         },
         "sv" : {
