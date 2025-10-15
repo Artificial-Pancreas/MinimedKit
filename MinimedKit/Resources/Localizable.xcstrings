@@ -2353,8 +2353,8 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Canada"
+            "state" : "translated",
+            "value" : "加拿大"
           }
         }
       }
@@ -4731,8 +4731,8 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Go to pump settings and select insulin type"
+            "state" : "translated",
+            "value" : "转到泵设置并选择胰岛素类型"
           }
         }
       }
@@ -4862,8 +4862,8 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "History page does not exist"
+            "state" : "translated",
+            "value" : "历史页面不存在"
           }
         }
       }
@@ -7227,8 +7227,8 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "No RileyLink Connected"
+            "state" : "translated",
+            "value" : "未连接 RileyLink"
           }
         }
       }
@@ -7882,8 +7882,8 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Please check your pump bolus history to determine if the bolus was delivered."
+            "state" : "translated",
+            "value" : "请检查您的胰岛素泵推注记录，以确定大剂量是否推注成功。"
           }
         }
       }
