@@ -10,12 +10,6 @@
             "value" : "%1$@\" بطارية منخفضة"
           }
         },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "\"%1$@\" has a low battery"
-          }
-        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -36,7 +30,7 @@
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "\"%1$@\" has a low battery"
           }
         },
@@ -48,26 +42,20 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "\"%1$@\" has a low battery"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "\"%1$@\" has a low battery"
           }
         },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "\"%1$@\" ha la batteria scarica"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "\" %1$@ \" har lavt batterinivå"
+            "value" : "%1$@ ha la batteria quasi scarica"
           }
         },
         "nb-NO" : {
@@ -96,14 +84,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "\"%1$@\" has a low battery"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "\"%1$@\" are o baterie scăzută"
           }
         },
         "ru" : {
@@ -144,8 +126,8 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "%1$@ 电量低"
+            "state" : "new",
+            "value" : "\"%1$@\" has a low battery"
           }
         }
       }
@@ -157,12 +139,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%1$@ وحدة متبقية"
-          }
-        },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "%1$@ U left"
           }
         },
         "da" : {
@@ -197,13 +173,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%1$@ U left"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%1$@ U left"
           }
         },
@@ -211,18 +187,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%1$@ U rimaste"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "残 %1$@単位"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "%1$@ E igjen"
           }
         },
         "nb-NO" : {
@@ -253,12 +217,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%1$@ U restante"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "%1$@ U rămase"
           }
         },
         "ru" : {
@@ -314,12 +272,6 @@
             "value" : "%1$@ وحدة متبقية: %2$@"
           }
         },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "%1$@ U left: %2$@"
-          }
-        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -352,13 +304,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%1$@ U left: %2$@"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%1$@ U left: %2$@"
           }
         },
@@ -366,18 +318,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%1$@ U rimaste: %2$@"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "残 %1$@単位: %2$@"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "%1$@ E gjenstår: %2$@"
           }
         },
         "nb-NO" : {
@@ -408,12 +348,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%1$@ U restante: %2$@"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "%1$@ U rămase: %2$@"
           }
         },
         "ru" : {
@@ -469,12 +403,6 @@
             "value" : "هناك جرعة جارية بالفعل"
           }
         },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "A bolus is already in progress"
-          }
-        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -507,13 +435,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "A bolus is already in progress"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "A bolus is already in progress"
           }
         },
@@ -521,18 +449,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Un bolo è già in esecuzione"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ボーラス注入中"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "En bolus pågår allerede"
           }
         },
         "nb-NO" : {
@@ -565,12 +481,6 @@
             "value" : "Um bolus está em andamento"
           }
         },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Există deja un bolus în curs de administrare"
-          }
-        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -586,7 +496,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "En bolusdos ges redan"
+            "value" : "En bolusdos pågår redan"
           }
         },
         "tr" : {
@@ -624,12 +534,6 @@
             "value" : "تذكير المنبه"
           }
         },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "AlarmClockReminder"
-          }
-        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -639,13 +543,13 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "AlarmClockReminder"
+            "value" : "Alarm Erinnerung"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "AlarmClockReminder"
+            "value" : "Recordatorio de alarma"
           }
         },
         "fi" : {
@@ -657,37 +561,25 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "AlarmClockReminder"
+            "value" : "Alarme de rappel"
           }
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "AlarmClockReminder"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "AlarmClockReminder"
           }
         },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "AlarmClockReminder"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "アラームリマインダー"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "PåminnelseAlarmklokke"
+            "value" : "Promemoria sveglia"
           }
         },
         "nb-NO" : {
@@ -699,12 +591,12 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "AlarmClockReminder"
+            "value" : "Wekker herinnering"
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "AlarmClockReminder"
           }
         },
@@ -718,12 +610,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "LembreteDeAlarme"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "AlarmClockReminder"
           }
         },
         "ru" : {
@@ -779,16 +665,10 @@
             "value" : "تنبيه الحساس"
           }
         },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "AlarmSensor"
-          }
-        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "AlarmSensor"
+            "value" : "Alarm Sensor"
           }
         },
         "de" : {
@@ -800,7 +680,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "AlarmSensor"
+            "value" : "Sensor de alarma"
           }
         },
         "fi" : {
@@ -817,32 +697,20 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "AlarmSensor"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "AlarmSensor"
           }
         },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "AlarmSensor"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "アラームセンサー"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "AlarmSensor"
+            "value" : "Allarme Sensori"
           }
         },
         "nb-NO" : {
@@ -854,12 +722,12 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "AlarmSensor"
+            "value" : "Alarm sensor"
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "AlarmSensor"
           }
         },
@@ -873,12 +741,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "AlarmeDeSensor"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "AlarmSensor"
           }
         },
         "ru" : {
@@ -919,7 +781,7 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "AlarmSensor"
           }
         }
@@ -932,12 +794,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "قلوي"
-          }
-        },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Alkaline"
           }
         },
         "da" : {
@@ -972,13 +828,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Alkaline"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Alkaline"
           }
         },
@@ -986,18 +842,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Alcalina"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "アルカリ"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Alkalisk"
           }
         },
         "nb-NO" : {
@@ -1028,12 +872,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Alcalina"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Alcalină"
           }
         },
         "ru" : {
@@ -1085,13 +923,7 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Auto-Off Alarm"
-          }
-        },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Auto-Off Alarm"
           }
         },
@@ -1115,7 +947,7 @@
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Auto-Off Alarm"
           }
         },
@@ -1127,13 +959,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Auto-Off Alarm"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Auto-Off Alarm"
           }
         },
@@ -1141,12 +973,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Allarme spegnimento automatico"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Auto-av alarm"
           }
         },
         "nb-NO" : {
@@ -1175,14 +1001,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Auto-Off Alarm"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Alarma de oprire automată"
           }
         },
         "ru" : {
@@ -1194,7 +1014,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Auto-Off Alarm"
+            "value" : "Alarm automatického vypnutia"
           }
         },
         "sv" : {
@@ -1223,7 +1043,7 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Auto-Off Alarm"
           }
         }
@@ -1236,12 +1056,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ملف تعريف القاعدي %1$@: %2$@ U/hour"
-          }
-        },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Basal Profile %1$@: %2$@ U/hour"
           }
         },
         "da" : {
@@ -1276,13 +1090,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Basal Profile %1$@: %2$@ U/hour"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Basal Profile %1$@: %2$@ U/hour"
           }
         },
@@ -1290,18 +1104,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Profilo basale %1$@: %2$@ U/ora"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ベーサルプロファイル %1$@: %2$@ U/時"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Basalprofil  %1$@: %2$@ E/timen"
           }
         },
         "nb-NO" : {
@@ -1332,12 +1134,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Perfil Basal %1$@: %2$@ U/hora"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Profil bazal %1$@: %2$@ U/oră"
           }
         },
         "ru" : {
@@ -1373,7 +1169,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hồ sơ Basal %1$@: %2$@ U/giờ"
+            "value" : "Hồ sơ liều Basal %1$@: %2$@ U/giờ"
           }
         },
         "zh-Hans" : {
@@ -1389,13 +1185,7 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Battery Depleted"
-          }
-        },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Battery Depleted"
           }
         },
@@ -1419,7 +1209,7 @@
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Battery Depleted"
           }
         },
@@ -1431,13 +1221,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Battery Depleted"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Battery Depleted"
           }
         },
@@ -1445,12 +1235,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Batteria scarica"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Batteriet er tomt"
           }
         },
         "nb-NO" : {
@@ -1479,14 +1263,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Battery Depleted"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Bateria descărcată"
           }
         },
         "ru" : {
@@ -1498,7 +1276,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Battery Depleted"
+            "value" : "Vybitá batéria"
           }
         },
         "sv" : {
@@ -1527,7 +1305,7 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Battery Depleted"
           }
         }
@@ -1538,13 +1316,7 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Battery Out Limit"
-          }
-        },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Battery Out Limit"
           }
         },
@@ -1568,7 +1340,7 @@
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Battery Out Limit"
           }
         },
@@ -1580,26 +1352,20 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Battery Out Limit"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Battery Out Limit"
           }
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Battery Out Limit"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Grense for batterinivå"
           }
         },
         "nb-NO" : {
@@ -1628,14 +1394,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Battery Out Limit"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Limită de descărcare a bateriei"
           }
         },
         "ru" : {
@@ -1647,7 +1407,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Battery Out Limit"
+            "value" : "Limit vybitia batérie"
           }
         },
         "sv" : {
@@ -1676,7 +1436,7 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Battery Out Limit"
           }
         }
@@ -1687,13 +1447,7 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "BatteryIssue17"
-          }
-        },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "BatteryIssue17"
           }
         },
@@ -1705,7 +1459,7 @@
         },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "BatteryIssue17"
           }
         },
@@ -1717,7 +1471,7 @@
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "BatteryIssue17"
           }
         },
@@ -1729,26 +1483,20 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "BatteryIssue17"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "BatteryIssue17"
           }
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "BatteryIssue17"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "BatteriIssue17"
           }
         },
         "nb-NO" : {
@@ -1777,19 +1525,13 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "BatteryIssue17"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ProblemaBaterie17"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "BatteryIssue17"
           }
         },
@@ -1825,7 +1567,7 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "BatteryIssue17"
           }
         }
@@ -1836,13 +1578,7 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "BatteryIssue21"
-          }
-        },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "BatteryIssue21"
           }
         },
@@ -1854,7 +1590,7 @@
         },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "BatteryIssue21"
           }
         },
@@ -1866,7 +1602,7 @@
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "BatteryIssue21"
           }
         },
@@ -1878,26 +1614,20 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "BatteryIssue21"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "BatteryIssue21"
           }
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "BatteryIssue21"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "BatteriIssue21"
           }
         },
         "nb-NO" : {
@@ -1926,19 +1656,13 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "BatteryIssue21"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ProblemaBaterie21"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "BatteryIssue21"
           }
         },
@@ -1974,7 +1698,7 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "BatteryIssue21"
           }
         }
@@ -2120,18 +1844,6 @@
             "value" : "جرعة قيد التنفيذ"
           }
         },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Bolus in progress"
-          }
-        },
-        "cs" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Probíhající bolus"
-          }
-        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2164,13 +1876,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Bolus in progress"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Bolus in progress"
           }
         },
@@ -2178,18 +1890,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bolo in corso"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ボーラスが進行中"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Bolus pågår"
           }
         },
         "nb-NO" : {
@@ -2220,12 +1920,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bolus em andamento"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Bolus în derulare"
           }
         },
         "ru" : {
@@ -2277,13 +1971,7 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Bolus in Progress"
-          }
-        },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Bolus in Progress"
           }
         },
@@ -2319,13 +2007,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Bolus in Progress"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Bolus in Progress"
           }
         },
@@ -2333,12 +2021,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bolo in corso"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Bolus pågår"
           }
         },
         "nb-NO" : {
@@ -2367,14 +2049,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Bolus in Progress"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Bolus în curs de administrare"
           }
         },
         "ru" : {
@@ -2386,7 +2062,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bolus in Progress"
+            "value" : "Prebieha bolus"
           }
         },
         "sv" : {
@@ -2426,13 +2102,7 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Bolus may have failed: %1$@"
-          }
-        },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Bolus may have failed: %1$@"
           }
         },
@@ -2456,7 +2126,7 @@
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Bolus may have failed: %1$@"
           }
         },
@@ -2468,13 +2138,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Bolus may have failed: %1$@"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Bolus may have failed: %1$@"
           }
         },
@@ -2482,12 +2152,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Il bolo potrebbe essere fallito: %1$@"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Bolus kan ha mislyktes: %1$@"
           }
         },
         "nb-NO" : {
@@ -2516,14 +2180,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Bolus may have failed: %1$@"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Este posibil ca bolusul să fi eșuat: %1$@"
           }
         },
         "ru" : {
@@ -2535,7 +2193,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bolus may have failed: %1$@"
+            "value" : "Bolus mohol zlyhať: %1$@"
           }
         },
         "sv" : {
@@ -2575,19 +2233,13 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Canada"
-          }
-        },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Canada"
           }
         },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Canada"
           }
         },
@@ -2611,31 +2263,25 @@
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Canada"
           }
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Canada"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Canada"
           }
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Canada"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Canada"
           }
         },
@@ -2665,13 +2311,7 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Canada"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Canada"
           }
         },
@@ -2684,13 +2324,13 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Canada"
+            "value" : "Kanada"
           }
         },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Canada"
+            "value" : "Kanada"
           }
         },
         "tr" : {
@@ -2728,12 +2368,6 @@
             "value" : "إلغاء الضخ المؤقت للإنسولين القاعدي"
           }
         },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Cancel Temp Basal"
-          }
-        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2761,12 +2395,12 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Annulation du débit basal temporaire"
+            "value" : "Annuler le Basal Temporaire"
           }
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Cancel Temp Basal"
           }
         },
@@ -2779,13 +2413,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Annulla basale temporanea"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Avbryt Temp Basal"
+            "value" : "Cancella basale temporanea"
           }
         },
         "nb-NO" : {
@@ -2797,13 +2425,13 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Annuleer Tijdelijk Basaal"
+            "value" : "Annuleer tijdelijke basaal"
           }
         },
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Anuluj Tymczasową Bazę"
+            "value" : "Anuluj bazę tymczasową"
           }
         },
         "pt" : {
@@ -2818,16 +2446,10 @@
             "value" : "Cancelar Basal Temporária"
           }
         },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Anulați bazala temporară"
-          }
-        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Отмена ВБС"
+            "value" : "Отменить ВБС"
           }
         },
         "sk" : {
@@ -2845,7 +2467,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Geçici Bazalı İptal Et"
+            "value" : "Geçici Bazali İptal Et"
           }
         },
         "uk" : {
@@ -2873,20 +2495,8 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Change Basal Profile Schedule"
-          }
-        },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Change Basal Profile Schedule"
-          }
-        },
-        "cs" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Změnit profil bazálního rozvrhu"
           }
         },
         "da" : {
@@ -2909,25 +2519,25 @@
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Change Basal Profile Schedule"
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Change Basal Profile Schedule"
           }
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Change Basal Profile Schedule"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Change Basal Profile Schedule"
           }
         },
@@ -2935,12 +2545,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Modifica la pianificazione del profilo basale"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Endre basalprofilplan"
           }
         },
         "nb-NO" : {
@@ -2969,14 +2573,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Change Basal Profile Schedule"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Modificarea profilului programului de insulină bazală"
           }
         },
         "ru" : {
@@ -2988,7 +2586,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Change Basal Profile Schedule"
+            "value" : "Zmeniť rozvrh bazálneho profilu"
           }
         },
         "sv" : {
@@ -3017,7 +2615,7 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Change Basal Profile Schedule"
           }
         }
@@ -3028,20 +2626,8 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Change Basal Schedule"
-          }
-        },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Change Basal Schedule"
-          }
-        },
-        "cs" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Změnit bazální rozvrh"
           }
         },
         "da" : {
@@ -3064,7 +2650,7 @@
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Change Basal Schedule"
           }
         },
@@ -3076,13 +2662,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Change Basal Schedule"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Change Basal Schedule"
           }
         },
@@ -3090,12 +2676,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Modifica il programma della basale"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Endre basal tidsplan"
           }
         },
         "nb-NO" : {
@@ -3124,14 +2704,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Change Basal Schedule"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Modificarea programului de insulină bazală"
           }
         },
         "ru" : {
@@ -3143,7 +2717,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Change Basal Schedule"
+            "value" : "Zmeniť bazálny rozvrh"
           }
         },
         "sv" : {
@@ -3172,7 +2746,7 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Change Basal Schedule"
           }
         }
@@ -3185,12 +2759,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "قم بتغيير بطارية المضخة على الفور"
-          }
-        },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Change the pump battery immediately"
           }
         },
         "da" : {
@@ -3225,13 +2793,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Change the pump battery immediately"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Change the pump battery immediately"
           }
         },
@@ -3239,18 +2807,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sostituisci immediatamente la batteria della pompa"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "すぐにポンプの電池を替えてください"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Skift pumpebatteri umiddelbart"
           }
         },
         "nb-NO" : {
@@ -3281,12 +2837,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Troque a bateria da bomba imediatamente"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Schimbați imediat bateria pompei"
           }
         },
         "ru" : {
@@ -3342,12 +2892,6 @@
             "value" : "قم بتغيير خزان المضخة الآن"
           }
         },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Change the pump reservoir now"
-          }
-        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3380,13 +2924,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Change the pump reservoir now"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Change the pump reservoir now"
           }
         },
@@ -3394,18 +2938,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cambia ora il serbatoio della pompa"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ポンプのレザーバを替えてください"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Bytt pumpereservoar nå"
           }
         },
         "nb-NO" : {
@@ -3436,12 +2968,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Troque o reservatório da bomba agora"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Schimbați rezervorul pompei acum"
           }
         },
         "ru" : {
@@ -3493,20 +3019,8 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Change Time"
-          }
-        },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Change Time"
-          }
-        },
-        "cs" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Změnit čas"
           }
         },
         "da" : {
@@ -3541,13 +3055,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Change Time"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Change Time"
           }
         },
@@ -3555,18 +3069,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cambia orario"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "時刻を変更"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Endre tid"
           }
         },
         "nb-NO" : {
@@ -3599,12 +3101,6 @@
             "value" : "Mudar Horário"
           }
         },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Schimbare oră"
-          }
-        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3614,7 +3110,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Change Time"
+            "value" : "Zmeniť čas"
           }
         },
         "sv" : {
@@ -3643,7 +3139,7 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Change Time"
           }
         }
@@ -3658,12 +3154,6 @@
             "value" : "تحقق من أن المضخة ليست معلقة أو في وضع التحضير، أو لديها نوع جرعة أساسية مؤقتة بنسبة مئوية"
           }
         },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Check that the pump is not suspended or priming, or has a percent temp basal type"
-          }
-        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3673,7 +3163,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Überprüfe, ob die Pumpe nicht unterbrochen wurde oder sich im Füllmodus befindet, oder prozentual temporären Basalraten aktiviert sind"
+            "value" : "Überprüfen Sie, ob die Pumpe nicht unterbrochen wurde oder sich im Füllmodus befindet, oder prozentual temporären Basalraten aktiviert sind"
           }
         },
         "es" : {
@@ -3696,32 +3186,20 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Check that the pump is not suspended or priming, or has a percent temp basal type"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Check that the pump is not suspended or priming, or has a percent temp basal type"
           }
         },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Verifica che la pompa non sia sospesa o in fase di Priming, oppure che abbia un tipo di basale temporaneo percentuale"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ポンプが停止、プライミング中、または基礎レートが一時的に変更になっていないことを確認してください"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Sjekk at pumpa ikke har stoppet tilførsel av insulin, at priming ikke foregår, eller har en  midlertidig prosentbasaltype pågående."
+            "value" : "Verificare che il microinfusore non sia sospeso o che sia in caricamento o che abbia impostata una basale in percentuale"
           }
         },
         "nb-NO" : {
@@ -3733,7 +3211,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Controleer dat de pomp niet is onderbroken of aan het voorbereiden is, of dat er een percentage tijdelijke basaal staat ingesteld"
+            "value" : "Controleer of de pomp niet is onderbroken of aan het voorbereiden is, of dat er een percentage tijdelijke basaal staat ingesteld"
           }
         },
         "pl" : {
@@ -3752,12 +3230,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Verifique se a bomba não está suspensa ou em preparação ou tem uma basal temporária percentual"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Verificați că pompa nu este suspendată sau în curs de inițiere sau ca nu folosește un tip procentual de bazală temporară"
           }
         },
         "ru" : {
@@ -3809,20 +3281,8 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Clear Alarm"
-          }
-        },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Clear Alarm"
-          }
-        },
-        "cs" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Vymazat alarm"
           }
         },
         "da" : {
@@ -3845,25 +3305,25 @@
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Clear Alarm"
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Clear Alarm"
           }
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Clear Alarm"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Clear Alarm"
           }
         },
@@ -3871,12 +3331,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cancella allarme"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Fjern alarm"
           }
         },
         "nb-NO" : {
@@ -3905,14 +3359,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Clear Alarm"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ștergeți alarma"
           }
         },
         "ru" : {
@@ -3924,7 +3372,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Clear Alarm"
+            "value" : "Vypnúť alarm"
           }
         },
         "sv" : {
@@ -3953,7 +3401,7 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Clear Alarm"
           }
         }
@@ -3966,12 +3414,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "تم رفض الأمر"
-          }
-        },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Command refused"
           }
         },
         "da" : {
@@ -4006,32 +3448,20 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Command refused"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Command refused"
           }
         },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Comando rifiutato"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "コマンド拒否"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Kommando avvist"
+            "value" : "Comando negato"
           }
         },
         "nb-NO" : {
@@ -4062,12 +3492,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Comando recusado"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Comandă refuzată"
           }
         },
         "ru" : {
@@ -4123,12 +3547,6 @@
             "value" : "تم اكتشاف الاتصال مع مضخة أخرى."
           }
         },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Comms with another pump detected."
-          }
-        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4167,32 +3585,20 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Comms with another pump detected."
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Comms with another pump detected."
           }
         },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Comunicazione con un altra pompa rilevata."
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "他のポンプが検出"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Oppdaget kommunikasjon med en annen pumpe"
+            "value" : "Comunicazione con un altro microinfusore rilevata"
           }
         },
         "nb-NO" : {
@@ -4223,12 +3629,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Comunicação com outra bomba detectada."
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "S-a detectat o comunicare cu altă pompă."
           }
         },
         "ru" : {
@@ -4264,7 +3664,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Comms cho bơm khác được phát hiện."
+            "value" : "Liên lạc cho bơm khác được phát hiện."
           }
         },
         "zh-Hans" : {
@@ -4285,16 +3685,10 @@
             "value" : "خطأ في فك التشفير"
           }
         },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Decoding Error"
-          }
-        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Undersøger fejl"
+            "value" : "Afkodningsfejl"
           }
         },
         "de" : {
@@ -4329,13 +3723,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Decoding Error"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Decoding Error"
           }
         },
@@ -4343,18 +3737,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Errore di decodifica"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "デコーディングエラー"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Dekodingsfeil"
           }
         },
         "nb-NO" : {
@@ -4385,12 +3767,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Erro de Decodificação"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Eroare la decodare"
           }
         },
         "ru" : {
@@ -4447,12 +3823,6 @@
             "value" : "خطأ في الجهاز"
           }
         },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Device Error"
-          }
-        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4491,13 +3861,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Device Error"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Device Error"
           }
         },
@@ -4505,18 +3875,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Errore del dispositivo"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "デバイスエラー"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Enhetsfeil"
           }
         },
         "nb-NO" : {
@@ -4547,12 +3905,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Erro no Dispositivo"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Eroare dispozitiv"
           }
         },
         "ru" : {
@@ -4604,13 +3956,7 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Device Reset"
-          }
-        },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Device Reset"
           }
         },
@@ -4634,7 +3980,7 @@
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Device Reset"
           }
         },
@@ -4646,13 +3992,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Device Reset"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Device Reset"
           }
         },
@@ -4660,12 +4006,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ripristino del dispositivo"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tilbakestilling av enhet"
           }
         },
         "nb-NO" : {
@@ -4694,14 +4034,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Device Reset"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Resetare dispozitiv"
           }
         },
         "ru" : {
@@ -4713,7 +4047,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Device Reset"
+            "value" : "Resetovanie zariadenia"
           }
         },
         "sv" : {
@@ -4742,7 +4076,7 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Device Reset"
           }
         }
@@ -4757,45 +4091,39 @@
             "value" : "تجاهل"
           }
         },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Dismiss"
-          }
-        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Afvis"
+            "value" : "Luk"
           }
         },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Schließen"
+            "value" : "Verwerfen"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ignorar"
+            "value" : "Descartar"
           }
         },
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ohita"
+            "value" : "Hylkää"
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Fermer"
+            "value" : "Abandonner"
           }
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Dismiss"
           }
         },
@@ -4808,19 +4136,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "OK"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "閉じる"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Avvis"
+            "value" : "Rimuovi"
           }
         },
         "nb-NO" : {
@@ -4832,13 +4148,13 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sluiten"
+            "value" : "Negeren"
           }
         },
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rozumiem"
+            "value" : "Zignoruj"
           }
         },
         "pt" : {
@@ -4850,13 +4166,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dispensar"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Renunță"
+            "value" : "Ignorar"
           }
         },
         "ru" : {
@@ -4912,33 +4222,27 @@
             "value" : "الخزان فارغ"
           }
         },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Empty Reservoir"
-          }
-        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tomt reservoir"
+            "value" : "Tomt Reservoir"
           }
         },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Leeres Reservoir"
+            "value" : "Reservoir leer"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Depósito vacío"
+            "value" : "Reservorio vacío"
           }
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Empty Reservoir"
           }
         },
@@ -4950,13 +4254,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Empty Reservoir"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Empty Reservoir"
           }
         },
@@ -4964,12 +4268,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Serbatoio vuoto"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tomt reservoar"
           }
         },
         "nb-NO" : {
@@ -4981,13 +4279,13 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Reservoir Leeg"
+            "value" : "Reservoir leeg"
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pusty zbiorniczek"
+            "state" : "new",
+            "value" : "Empty Reservoir"
           }
         },
         "pt" : {
@@ -4998,14 +4296,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Empty Reservoir"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Rezervor gol"
           }
         },
         "ru" : {
@@ -5029,7 +4321,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Boş Rezervuar"
+            "value" : "Rezervuar Boş"
           }
         },
         "uk" : {
@@ -5046,7 +4338,7 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Empty Reservoir"
           }
         }
@@ -5059,12 +4351,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "سجل الأحداث"
-          }
-        },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Event History"
           }
         },
         "da" : {
@@ -5099,32 +4385,20 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Event History"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Event History"
           }
         },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cronologia degli eventi"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Event History"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Hendelseshistorie"
+            "value" : "Storico degli eventi"
           }
         },
         "nb-NO" : {
@@ -5153,14 +4427,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Event History"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Istoric evenimente"
           }
         },
         "ru" : {
@@ -5196,7 +4464,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Event History"
+            "value" : "Lược sử tác vụ trước đó"
           }
         },
         "zh-Hans" : {
@@ -5212,13 +4480,7 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Glucose page failed crc check"
-          }
-        },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Glucose page failed crc check"
           }
         },
@@ -5254,13 +4516,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Glucose page failed crc check"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Glucose page failed crc check"
           }
         },
@@ -5268,12 +4530,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "La pagina della glicemia non ha superato il controllo CRC"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Glukoseside mislyktes ved crc-sjekk"
           }
         },
         "nb-NO" : {
@@ -5302,14 +4558,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Glucose page failed crc check"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pagina de glicemie nu a reușit verificarea crc"
           }
         },
         "ru" : {
@@ -5321,7 +4571,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Glucose page failed crc check"
+            "value" : "Stránka glykémie neprešla kontrolou CRC"
           }
         },
         "sv" : {
@@ -5350,7 +4600,7 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Glucose page failed crc check"
           }
         }
@@ -5361,13 +4611,7 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Go to pump settings and select insulin type"
-          }
-        },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Go to pump settings and select insulin type"
           }
         },
@@ -5391,7 +4635,7 @@
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Go to pump settings and select insulin type"
           }
         },
@@ -5403,13 +4647,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Go to pump settings and select insulin type"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Go to pump settings and select insulin type"
           }
         },
@@ -5417,12 +4661,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Vai nelle impostazioni della pompa e seleziona il tipo d'insulina"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Gå til pumpeinnstillinger og velg insulintype"
           }
         },
         "nb-NO" : {
@@ -5451,14 +4689,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Go to pump settings and select insulin type"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Accesați setările pompei și selectați tipul de insulină"
           }
         },
         "ru" : {
@@ -5470,7 +4702,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Go to pump settings and select insulin type"
+            "value" : "Prejdite do nastavení pumpy a vyberte typ inzulínu"
           }
         },
         "sv" : {
@@ -5510,13 +4742,7 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "History page does not exist"
-          }
-        },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "History page does not exist"
           }
         },
@@ -5552,13 +4778,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "History page does not exist"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "History page does not exist"
           }
         },
@@ -5566,12 +4792,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "La pagina della cronologia non esiste"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Historie siden eksisterer ikke"
           }
         },
         "nb-NO" : {
@@ -5600,14 +4820,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "History page does not exist"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pagina de istoric nu există"
           }
         },
         "ru" : {
@@ -5619,7 +4833,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "History page does not exist"
+            "value" : "Stránka histórie neexistuje"
           }
         },
         "sv" : {
@@ -5659,13 +4873,7 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "History page failed crc check"
-          }
-        },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "History page failed crc check"
           }
         },
@@ -5701,13 +4909,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "History page failed crc check"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "History page failed crc check"
           }
         },
@@ -5715,12 +4923,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "La pagina della cronologia non ha superato il controllo CRC"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Historikksiden mislyktes med crc kontroll"
           }
         },
         "nb-NO" : {
@@ -5749,14 +4951,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "History page failed crc check"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pagina pentru istoric nu a reușit verificarea crc"
           }
         },
         "ru" : {
@@ -5768,7 +4964,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "History page failed crc check"
+            "value" : "Stránka histórie neprešla kontrolou CRC"
           }
         },
         "sv" : {
@@ -5797,7 +4993,7 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "History page failed crc check"
           }
         }
@@ -5939,13 +5135,7 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Insulin Type is not configured"
-          }
-        },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Insulin Type is not configured"
           }
         },
@@ -5969,7 +5159,7 @@
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Insulin Type is not configured"
           }
         },
@@ -5981,13 +5171,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Insulin Type is not configured"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Insulin Type is not configured"
           }
         },
@@ -5995,12 +5185,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Il tipo d'insulina non è stato configurato"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Insulintype ikke konfigurert"
           }
         },
         "nb-NO" : {
@@ -6029,14 +5213,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Insulin Type is not configured"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tipul de insulină nu este configurat"
           }
         },
         "ru" : {
@@ -6048,7 +5226,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Insulin Type is not configured"
+            "value" : "Typ inzulínu nie je nastavený"
           }
         },
         "sv" : {
@@ -6077,7 +5255,7 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Insulin Type is not configured"
           }
         }
@@ -6092,16 +5270,10 @@
             "value" : "استجابة غير صحيحة خلال %1$@: %2$@"
           }
         },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Invalid response during %1$@: %2$@"
-          }
-        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Fejlagtigt svar ved %1$@: %2$@"
+            "value" : "Ugyldigt svar under %1$@: %2$@"
           }
         },
         "de" : {
@@ -6130,13 +5302,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Invalid response during %1$@: %2$@"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Invalid response during %1$@: %2$@"
           }
         },
@@ -6144,18 +5316,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Risposta non valida per %1$@: %2$@"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "%1$@ で反応が無効: %2$@"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ugyldig respons ved %1$@: %2$@"
           }
         },
         "nb-NO" : {
@@ -6186,12 +5346,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Resposta inválida durante %1$@: %2$@"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Răspuns invalid în timpul %1$@: %2$@"
           }
         },
         "ru" : {
@@ -6247,16 +5401,10 @@
             "value" : "ليثيوم"
           }
         },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Lithium"
-          }
-        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Lithium"
+            "value" : "Litium"
           }
         },
         "de" : {
@@ -6285,13 +5433,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Lithium"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Lithium"
           }
         },
@@ -6299,18 +5447,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Litio"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "リチウム"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Lithium"
           }
         },
         "nb-NO" : {
@@ -6341,12 +5477,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Lítio"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Litiu"
           }
         },
         "ru" : {
@@ -6398,13 +5528,7 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Loop sent a bolus command to the pump, but was unable to confirm that the pump received the command. For safety, Loop will assume the bolus was delivered. When Loop eventually fetches history from the pump, and the estimated bolus finish time is passed, Loop will update its records of delivery to match what the pump reports."
-          }
-        },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Loop sent a bolus command to the pump, but was unable to confirm that the pump received the command. For safety, Loop will assume the bolus was delivered. When Loop eventually fetches history from the pump, and the estimated bolus finish time is passed, Loop will update its records of delivery to match what the pump reports."
           }
         },
@@ -6428,7 +5552,7 @@
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Loop sent a bolus command to the pump, but was unable to confirm that the pump received the command. For safety, Loop will assume the bolus was delivered. When Loop eventually fetches history from the pump, and the estimated bolus finish time is passed, Loop will update its records of delivery to match what the pump reports."
           }
         },
@@ -6440,13 +5564,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Loop sent a bolus command to the pump, but was unable to confirm that the pump received the command. For safety, Loop will assume the bolus was delivered. When Loop eventually fetches history from the pump, and the estimated bolus finish time is passed, Loop will update its records of delivery to match what the pump reports."
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Loop sent a bolus command to the pump, but was unable to confirm that the pump received the command. For safety, Loop will assume the bolus was delivered. When Loop eventually fetches history from the pump, and the estimated bolus finish time is passed, Loop will update its records of delivery to match what the pump reports."
           }
         },
@@ -6454,12 +5578,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Loop ha inviato un comando di bolo alla pompa, ma non è stato in grado di confermare che la pompa lo avesse ricevuto. Per motivi di sicurezza, Loop presumerà che il bolo sia stato effettivamente erogato. Quando Loop recupera la cronologia dalla pompa e l'ora stimata di fine bolo è passata, Loop aggiornerà i propri registri di erogazione in base a quanto riportato dalla pompa."
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Loop sendte en boluskommando til pumpen, men kunne ikke bekrefte at pumpen mottok kommandoen. For sikkerhets skyld vil Loop anta at bolusen ble levert. Når Loop til slutt henter historikk fra pumpen, og den estimerte bolussluttiden er passert, vil Loop oppdatere sine leveringsposter for å samsvare med det pumpen rapporterer."
           }
         },
         "nb-NO" : {
@@ -6488,14 +5606,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Loop sent a bolus command to the pump, but was unable to confirm that the pump received the command. For safety, Loop will assume the bolus was delivered. When Loop eventually fetches history from the pump, and the estimated bolus finish time is passed, Loop will update its records of delivery to match what the pump reports."
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Loop a trimis o comandă de bolus pompei, dar nu a putut confirma că pompa a primit comanda. Pentru siguranță, Loop va presupune că bolusul a fost administrat. Când Loop preia istoricul de la pompă și timpul estimat de terminare a bolusului este trecut, Loop își va actualiza înregistrările de livrare pentru a se potrivi cu ceea ce raportează pompa."
           }
         },
         "ru" : {
@@ -6507,7 +5619,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Loop sent a bolus command to the pump, but was unable to confirm that the pump received the command. For safety, Loop will assume the bolus was delivered. When Loop eventually fetches history from the pump, and the estimated bolus finish time is passed, Loop will update its records of delivery to match what the pump reports."
+            "value" : "iAPS odoslal príkaz na bolus do pumpy, ale nepodarilo sa potvrdiť, že pumpa príkaz prijala. Z bezpečnostných dôvodov iAPS predpokladá, že bolus bol podaný. Keď iAPS neskôr získa históriu z pumpy a uplynie odhadovaný čas ukončenia bolusu, iAPS aktualizuje svoje záznamy o podávaní tak, aby zodpovedali údajom, ktoré nahlási pumpa."
           }
         },
         "sv" : {
@@ -6551,18 +5663,6 @@
             "value" : "البطارية منخفضة"
           }
         },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Low Battery"
-          }
-        },
-        "cs" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Vybitá baterie"
-          }
-        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6572,7 +5672,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Niedriger Batteriestatus"
+            "value" : "Batterie schwach"
           }
         },
         "es" : {
@@ -6601,26 +5701,14 @@
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Low Battery"
           }
         },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Batteria scarica"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "電池残量低下"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Lavt batterinivå"
+            "value" : "Batteria Bassa"
           }
         },
         "nb-NO" : {
@@ -6632,7 +5720,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Batterij Bijna Leeg"
+            "value" : "Batterij bijna leeg"
           }
         },
         "pl" : {
@@ -6651,12 +5739,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bateria Fraca"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Baterie descărcată"
           }
         },
         "ru" : {
@@ -6708,43 +5790,31 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Low Reservoir"
-          }
-        },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Low Reservoir"
-          }
-        },
-        "cs" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Poloprázdný zásobník"
           }
         },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Lavt reservoir"
+            "value" : "Lavt Reservoir"
           }
         },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Niedriges Reservoir"
+            "value" : "Niedriger Reservoirstand"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Reserva baja"
+            "value" : "Reservorio bajo"
           }
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Low Reservoir"
           }
         },
@@ -6756,26 +5826,20 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Low Reservoir"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Low Reservoir"
           }
         },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Serbatoio scarico"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Lavt reservoar"
+            "value" : "Livello serbatoio basso"
           }
         },
         "nb-NO" : {
@@ -6787,13 +5851,13 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Reservoir Bijna Leeg"
+            "value" : "Laag reservoir niveau"
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Niski poziom w zbiorniczku"
+            "state" : "new",
+            "value" : "Low Reservoir"
           }
         },
         "pt" : {
@@ -6804,20 +5868,14 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Low Reservoir"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Rezervor scăzut"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Мало инсулина в резервуаре"
+            "value" : "В резервуаре мало инсулина"
           }
         },
         "sk" : {
@@ -6852,7 +5910,7 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Low Reservoir"
           }
         }
@@ -6865,12 +5923,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "بطارية RileyLink منخفضة"
-          }
-        },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Low RileyLink Battery"
           }
         },
         "da" : {
@@ -6893,7 +5945,7 @@
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Low RileyLink Battery"
           }
         },
@@ -6905,13 +5957,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Low RileyLink Battery"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Low RileyLink Battery"
           }
         },
@@ -6919,12 +5971,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Batteria Rileylink quasi scarica"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Lavt RileyLink-batteri"
           }
         },
         "nb-NO" : {
@@ -6936,7 +5982,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Batterij RileyLink Bijna Leeg"
+            "value" : "Batterij RileyLink bijna leeg"
           }
         },
         "pl" : {
@@ -6953,14 +5999,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Low RileyLink Battery"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Baterie RileyLink scăzută"
           }
         },
         "ru" : {
@@ -7001,8 +6041,8 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "RileyLink 电量低"
+            "state" : "new",
+            "value" : "Low RileyLink Battery"
           }
         }
       }
@@ -7016,12 +6056,6 @@
             "value" : "تأكد من أن RileyLink الخاص بك قريب ويعمل"
           }
         },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Make sure your RileyLink is nearby and powered on"
-          }
-        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7031,7 +6065,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Stelle sicher, dass sich Dein RileyLink in der Nähe befindet und eingeschaltet ist"
+            "value" : "Stellen Sie sicher, dass sich Ihr RileyLink in der Nähe befindet und eingeschaltet ist"
           }
         },
         "es" : {
@@ -7054,32 +6088,20 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Make sure your RileyLink is nearby and powered on"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Make sure your RileyLink is nearby and powered on"
           }
         },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Assicurati che RileyLink si trovi nelle vicinanze e sia attivato"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "RileyLink が近くにあり電源が入っているか確認"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pass på at din RileyLink er slått på og er i nærheten"
+            "value" : "Assicurati che RileyLink si trovi nelle vicinanze e sia acceso"
           }
         },
         "nb-NO" : {
@@ -7091,7 +6113,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zorg ervoor dat je RileyLink dichtbij is en aan staat"
+            "value" : "Zorg ervoor dat je RileyLink dicht bij is en aan staat"
           }
         },
         "pl" : {
@@ -7110,12 +6132,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Verifique se o seu RileyLink está próximo e ligado"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Asigurați-vă că RileyLink este pornit și situat în apropriere"
           }
         },
         "ru" : {
@@ -7157,7 +6173,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "请确认Rileylink靠近手机并且已打开"
+            "value" : "确保Rileylink与Pod保持比较近的距离"
           }
         }
       }
@@ -7171,16 +6187,10 @@
             "value" : "تم تجاوز الحد الأقصى للإعدادات"
           }
         },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Max setting exceeded"
-          }
-        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Max indstilling overskredet"
+            "value" : "Maks. indstilling overskredet"
           }
         },
         "de" : {
@@ -7209,13 +6219,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Max setting exceeded"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Max setting exceeded"
           }
         },
@@ -7223,18 +6233,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Impostazione massima superata"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "設定の制限を超えています"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Maksinnstilling overskredet"
           }
         },
         "nb-NO" : {
@@ -7265,12 +6263,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Configuração máxima excedida"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Setare maximă depășită"
           }
         },
         "ru" : {
@@ -7322,20 +6314,8 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Meal"
-          }
-        },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Meal"
-          }
-        },
-        "cs" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Jídlo"
           }
         },
         "da" : {
@@ -7347,7 +6327,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Mahlzeit"
+            "value" : "Essen"
           }
         },
         "es" : {
@@ -7358,7 +6338,7 @@
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Meal"
           }
         },
@@ -7370,13 +6350,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "ארוחה"
+            "state" : "new",
+            "value" : "Meal"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Meal"
           }
         },
@@ -7384,12 +6364,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pasto"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Måltid"
           }
         },
         "nb-NO" : {
@@ -7406,8 +6380,8 @@
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Posiłek"
+            "state" : "new",
+            "value" : "Meal"
           }
         },
         "pt" : {
@@ -7418,14 +6392,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Meal"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Masă"
           }
         },
         "ru" : {
@@ -7449,7 +6417,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Öğün"
+            "value" : "Ögün"
           }
         },
         "uk" : {
@@ -7466,7 +6434,7 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Meal"
           }
         }
@@ -7477,67 +6445,55 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Minimed"
-          }
-        },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Minimed"
           }
         },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Minimed"
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Minimed"
           }
         },
         "es" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Minimed"
           }
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Minimed"
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Minimed"
           }
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Minimed"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Minimed"
           }
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Minimed"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Minimed"
           }
         },
@@ -7555,7 +6511,7 @@
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Minimed"
           }
         },
@@ -7567,19 +6523,13 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Minimed"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Minimed"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Minimed"
           }
         },
@@ -7597,7 +6547,7 @@
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Minimed"
           }
         },
@@ -7615,7 +6565,7 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Minimed"
           }
         }
@@ -7630,12 +6580,6 @@
             "value" : "تم تصغير %@"
           }
         },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Minimed %@"
-          }
-        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7656,7 +6600,7 @@
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Minimed %@"
           }
         },
@@ -7668,32 +6612,20 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Minimed %@"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Minimed %@"
           }
         },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Minimed %@"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Minimed %@"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Minimed %@"
+            "value" : "MiniMed %@"
           }
         },
         "nb-NO" : {
@@ -7710,7 +6642,7 @@
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Minimed %@"
           }
         },
@@ -7722,13 +6654,7 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Minimed %@"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Minimed %@"
           }
         },
@@ -7770,7 +6696,7 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Minimed %@"
           }
         }
@@ -7784,12 +6710,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "الحد الأدنى 500/700 سلسلة"
-          }
-        },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Minimed 500/700 Series"
           }
         },
         "da" : {
@@ -7830,32 +6750,20 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Minimed 500/700 Series"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Minimed 500/700 Series"
           }
         },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Minimed serie 500/700"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Minimed 500/700 シリーズ"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Minimed 500/700 series"
+            "value" : "MiniMed serie 500/700"
           }
         },
         "nb-NO" : {
@@ -7884,13 +6792,7 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Minimed 500/700 Series"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Minimed 500/700 Series"
           }
         },
@@ -7909,13 +6811,13 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Minimed 500/700 Series"
+            "value" : "Minimed 500/700-serien"
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Minimed 500/700 Series"
+            "value" : "Minimed 500/700 Serisi"
           }
         },
         "uk" : {
@@ -7943,20 +6845,8 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "New Time"
-          }
-        },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "New Time"
-          }
-        },
-        "cs" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Nový čas"
           }
         },
         "da" : {
@@ -7979,7 +6869,7 @@
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "New Time"
           }
         },
@@ -7991,13 +6881,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "New Time"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "New Time"
           }
         },
@@ -8005,12 +6895,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nuovo orario"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ny tid"
           }
         },
         "nb-NO" : {
@@ -8039,14 +6923,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "New Time"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Timp nou"
           }
         },
         "ru" : {
@@ -8058,7 +6936,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "New Time"
+            "value" : "Nový čas"
           }
         },
         "sv" : {
@@ -8087,7 +6965,7 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "New Time"
           }
         }
@@ -8098,13 +6976,7 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "No Delivery Alarm"
-          }
-        },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "No Delivery Alarm"
           }
         },
@@ -8128,7 +7000,7 @@
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "No Delivery Alarm"
           }
         },
@@ -8140,13 +7012,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "No Delivery Alarm"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "No Delivery Alarm"
           }
         },
@@ -8154,12 +7026,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nessun allarme di erogazione"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ingen levering alarm"
           }
         },
         "nb-NO" : {
@@ -8188,14 +7054,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "No Delivery Alarm"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Fără alarmă de administrare"
           }
         },
         "ru" : {
@@ -8207,7 +7067,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "No Delivery Alarm"
+            "value" : "Žiadny alarm o dodaní"
           }
         },
         "sv" : {
@@ -8236,7 +7096,7 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "No Delivery Alarm"
           }
         }
@@ -8247,13 +7107,7 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "No RileyLink Connected"
-          }
-        },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "No RileyLink Connected"
           }
         },
@@ -8289,13 +7143,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "No RileyLink Connected"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "No RileyLink Connected"
           }
         },
@@ -8303,12 +7157,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nessun RileyLink connesso"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ingen RileyLink tilkoblet"
           }
         },
         "nb-NO" : {
@@ -8337,14 +7185,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "No RileyLink Connected"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Niciun RileyLink conectat"
           }
         },
         "ru" : {
@@ -8356,7 +7198,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "No RileyLink Connected"
+            "value" : "Žiadne pripojenie RileyLink"
           }
         },
         "sv" : {
@@ -8400,12 +7242,6 @@
             "value" : "أمريكا الشماليّة"
           }
         },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "North America"
-          }
-        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8438,13 +7274,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "North America"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "North America"
           }
         },
@@ -8452,18 +7288,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nord America"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "North America"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Nord Amerika"
           }
         },
         "nb-NO" : {
@@ -8496,12 +7320,6 @@
             "value" : "América do Norte"
           }
         },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "America de Nord"
-          }
-        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8523,7 +7341,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "North America"
+            "value" : "Kuzey Amerika"
           }
         },
         "uk" : {
@@ -8555,12 +7373,6 @@
             "value" : "حسناً"
           }
         },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ok"
-          }
-        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8576,40 +7388,34 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "OK"
+            "value" : "Ok"
           }
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Ok"
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ok"
+            "value" : "OK"
           }
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Ok"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Ok"
           }
         },
         "it" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "OK"
-          }
-        },
-        "nb" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ok"
@@ -8629,7 +7435,7 @@
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Ok"
           }
         },
@@ -8641,13 +7447,7 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ok"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Ok"
           }
         },
@@ -8689,8 +7489,8 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "好"
+            "state" : "new",
+            "value" : "Ok"
           }
         }
       }
@@ -8701,19 +7501,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "موافق"
-          }
-        },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "OK"
-          }
-        },
-        "cs" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "OK"
+            "value" : "حسناً"
           }
         },
         "da" : {
@@ -8736,7 +7524,7 @@
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "OK"
           }
         },
@@ -8748,13 +7536,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "OK"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "OK"
           }
         },
@@ -8762,18 +7550,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "OK"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "OK"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ok"
           }
         },
         "nb-NO" : {
@@ -8785,12 +7561,12 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ok"
+            "value" : "OK"
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "OK"
           }
         },
@@ -8802,20 +7578,14 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "OK"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "OK"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "OK"
+            "value" : "ОК"
           }
         },
         "sk" : {
@@ -8851,7 +7621,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "好的"
+            "value" : "Ok"
           }
         }
       }
@@ -8861,13 +7631,7 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Percent Temp Basal"
-          }
-        },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Percent Temp Basal"
           }
         },
@@ -8891,7 +7655,7 @@
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Percent Temp Basal"
           }
         },
@@ -8903,13 +7667,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Percent Temp Basal"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Percent Temp Basal"
           }
         },
@@ -8917,12 +7681,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Percentuale basale temporanea"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Prosent midlertidig basal"
           }
         },
         "nb-NO" : {
@@ -8951,14 +7709,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Percent Temp Basal"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Procentul de bazală temporară"
           }
         },
         "ru" : {
@@ -8970,7 +7722,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Percent Temp Basal"
+            "value" : "Percentuálny dočasný bazál"
           }
         },
         "sv" : {
@@ -8999,7 +7751,7 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Percent Temp Basal"
           }
         }
@@ -9010,13 +7762,7 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Please check your pump bolus history to determine if the bolus was delivered."
-          }
-        },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Please check your pump bolus history to determine if the bolus was delivered."
           }
         },
@@ -9040,7 +7786,7 @@
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Please check your pump bolus history to determine if the bolus was delivered."
           }
         },
@@ -9052,13 +7798,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Please check your pump bolus history to determine if the bolus was delivered."
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Please check your pump bolus history to determine if the bolus was delivered."
           }
         },
@@ -9066,12 +7812,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Controlla la cronologia dei boli della pompa per verificare se il bolo è stato erogato."
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Vennligst kontroller pumpens bolushistorikk for å finne ut om bolusen ble levert."
           }
         },
         "nb-NO" : {
@@ -9100,14 +7840,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Please check your pump bolus history to determine if the bolus was delivered."
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Vă rugăm să verificați istoricul bolusurilor de pe pompă pentru a determina dacă bolusul a fost administrat."
           }
         },
         "ru" : {
@@ -9119,7 +7853,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Please check your pump bolus history to determine if the bolus was delivered."
+            "value" : "Skontrolujte históriu bolusov na vašej pumpe, aby ste zistili, či bol bolus podaný."
           }
         },
         "sv" : {
@@ -9159,13 +7893,7 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Prime"
-          }
-        },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Prime"
           }
         },
@@ -9189,7 +7917,7 @@
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Prime"
           }
         },
@@ -9201,25 +7929,19 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Prime"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Prime"
           }
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Prime"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Prime"
           }
         },
@@ -9249,14 +7971,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Prime"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Inițiere"
           }
         },
         "ru" : {
@@ -9268,7 +7984,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Prime"
+            "value" : "Plnenie"
           }
         },
         "sv" : {
@@ -9297,7 +8013,7 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Prime"
           }
         }
@@ -9310,12 +8026,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "بطارية المضخة منخفضة"
-          }
-        },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pump Battery Low"
           }
         },
         "da" : {
@@ -9350,13 +8060,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Pump Battery Low"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Pump Battery Low"
           }
         },
@@ -9364,18 +8074,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Batteria della pompa scarica"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ポンプの電池が不足"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Lavt pumpebatteri"
           }
         },
         "nb-NO" : {
@@ -9406,12 +8104,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Batteria da Bomba Fraca"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Nivel scăzut baterie pompă"
           }
         },
         "ru" : {
@@ -9467,12 +8159,6 @@
             "value" : "المضخة لم تستجب"
           }
         },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pump did not respond"
-          }
-        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9505,32 +8191,20 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Pump did not respond"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Pump did not respond"
           }
         },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "La pompa non ha risposto"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ポンプが反応しません"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pumpa svarte ikke"
+            "value" : "Il microinfusore non risponde"
           }
         },
         "nb-NO" : {
@@ -9561,12 +8235,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "A bomba não respondeu"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pumpa nu a răspuns"
           }
         },
         "ru" : {
@@ -9623,12 +8291,6 @@
             "value" : "خطأ في المضخة"
           }
         },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pump Error"
-          }
-        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9667,32 +8329,20 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Pump Error"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Pump Error"
           }
         },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Errore pompa"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ポンプエラー"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pumpefeil"
+            "value" : "Errore microinfusore"
           }
         },
         "nb-NO" : {
@@ -9704,7 +8354,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pomp Foutmelding"
+            "value" : "Pomp foutmelding"
           }
         },
         "pl" : {
@@ -9723,12 +8373,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Erro na Bomba"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Eroare pompă"
           }
         },
         "ru" : {
@@ -9784,12 +8428,6 @@
             "value" : "تم تعليق المضخة"
           }
         },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pump is suspended"
-          }
-        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9822,32 +8460,20 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Pump is suspended"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Pump is suspended"
           }
         },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "La pompa è sospesa"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ポンプが停止しています"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pumpe er pauset"
+            "value" : "Il microinfusore è sospeso"
           }
         },
         "nb-NO" : {
@@ -9878,12 +8504,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bomba suspensa"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pompa este suspendată"
           }
         },
         "ru" : {
@@ -9919,7 +8539,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bơm đang được tạm ngưng"
+            "value" : "Bơm đã tạm dừng"
           }
         },
         "zh-Hans" : {
@@ -9935,13 +8555,7 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pump is Suspended"
-          }
-        },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Pump is Suspended"
           }
         },
@@ -9965,7 +8579,7 @@
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Pump is Suspended"
           }
         },
@@ -9977,13 +8591,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Pump is Suspended"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Pump is Suspended"
           }
         },
@@ -9991,12 +8605,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "La pompa è sospesa"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pumpen satt på pause"
           }
         },
         "nb-NO" : {
@@ -10025,14 +8633,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Pump is Suspended"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pompa este suspendată"
           }
         },
         "ru" : {
@@ -10044,7 +8646,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pump is Suspended"
+            "value" : "Pumpa je pozastavená"
           }
         },
         "sv" : {
@@ -10073,7 +8675,7 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Pump is Suspended"
           }
         }
@@ -10086,12 +8688,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "خزان المضخة منتهي"
-          }
-        },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pump Reservoir Empty"
           }
         },
         "da" : {
@@ -10126,13 +8722,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Pump Reservoir Empty"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Pump Reservoir Empty"
           }
         },
@@ -10140,18 +8736,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Serbatoio della pompa vuoto"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ポンプのリザーバが空です"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pumpereservoar Tomt"
           }
         },
         "nb-NO" : {
@@ -10182,12 +8766,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Reservatório da Bomba Vazio"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Rezervorul pompei este gol"
           }
         },
         "ru" : {
@@ -10243,12 +8821,6 @@
             "value" : "خزان المضخة منخفض"
           }
         },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pump Reservoir Low"
-          }
-        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10281,13 +8853,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Pump Reservoir Low"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Pump Reservoir Low"
           }
         },
@@ -10295,18 +8867,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Serbatoio della pompa scarico"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ポンプのリザーバが低です"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pumpereservoar Lavt"
           }
         },
         "nb-NO" : {
@@ -10337,12 +8897,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Reservatório da Bomba Vazio"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Rezervor de pompare scăzut"
           }
         },
         "ru" : {
@@ -10398,12 +8952,6 @@
             "value" : "مضخة استجابت بشكل غير متوقع"
           }
         },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pump responded unexpectedly"
-          }
-        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10442,32 +8990,20 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Pump responded unexpectedly"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Pump responded unexpectedly"
           }
         },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "La pompa ha risposto in modo imprevisto"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ポンプが不意に反応しました"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pumpen svarte uventet"
+            "value" : "Il microinfusore ha risposto in modo inaspettato"
           }
         },
         "nb-NO" : {
@@ -10498,12 +9034,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : " Bomba respondeu inesperadamente"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pompa a răspuns în mod neașteptat"
           }
         },
         "ru" : {
@@ -10539,7 +9069,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bơm phản ứng bất ngờ"
+            "value" : "Bơm phản hồi không như dự kiến"
           }
         },
         "zh-Hans" : {
@@ -10558,12 +9088,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "رسالة المضخة(%1$@، %2$@، %3$@، %4$@)"
-          }
-        },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "PumpMessage(%1$@, %2$@, %3$@, %4$@)"
           }
         },
         "da" : {
@@ -10604,32 +9128,20 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "PumpMessage(%1$@, %2$@, %3$@, %4$@)"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "PumpMessage(%1$@, %2$@, %3$@, %4$@)"
           }
         },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "PumpMessage(%1$@, %2$@, %3$@, %4$@)"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ポンプメッセージ(%1$@, %2$@, %3$@, %4$@)"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pumpemelding(%1$@, %2$@, %3$@, %4$@)"
+            "value" : "Informazioni pompa(%1$@, %2$@, %3$@, %4$@)"
           }
         },
         "nb-NO" : {
@@ -10641,13 +9153,13 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bericht Pomp (%1$@, %2$@, %3$@, %4$@)"
+            "value" : "Bericht pomp (%1$@, %2$@, %3$@, %4$@)"
           }
         },
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Wiadomość z pompy (%1$@, %2$@, %3$@, %4$@)"
+            "value" : "Wiadomość od pompy(%1$@, %2$@, %3$@, %4$@)"
           }
         },
         "pt" : {
@@ -10660,12 +9172,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "MensagemDaBomba(%1$@, %2$@, %3$@, %4$@)"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "PumpMessage(%1$@, %2$@, %3$@, %4$@)"
           }
         },
         "ru" : {
@@ -10717,13 +9223,7 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Reprogram Error"
-          }
-        },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Reprogram Error"
           }
         },
@@ -10735,7 +9235,7 @@
         },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Reprogram Error"
           }
         },
@@ -10747,7 +9247,7 @@
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Reprogram Error"
           }
         },
@@ -10759,13 +9259,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Reprogram Error"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Reprogram Error"
           }
         },
@@ -10773,12 +9273,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Errore di riprogrammazione"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Omprogrammeringsfeil"
           }
         },
         "nb-NO" : {
@@ -10807,14 +9301,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Reprogram Error"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Eroare de reprogramare"
           }
         },
         "ru" : {
@@ -10826,7 +9314,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Reprogram Error"
+            "value" : "Chyba preprogramovania"
           }
         },
         "sv" : {
@@ -10855,7 +9343,7 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Reprogram Error"
           }
         }
@@ -10868,12 +9356,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "الخزان"
-          }
-        },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Reservoir"
           }
         },
         "da" : {
@@ -10908,13 +9390,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Reservoir"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Reservoir"
           }
         },
@@ -10922,18 +9404,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Serbatoio"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Reservoir"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Reservoar"
           }
         },
         "nb-NO" : {
@@ -10962,20 +9432,14 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Reservoir"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Rezervor"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Reservoir"
+            "value" : "Резервуар"
           }
         },
         "sk" : {
@@ -11005,13 +9469,13 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Reservoir"
+            "value" : "Ngăn chứa insulin"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "储药器"
+            "value" : "胰岛素容量"
           }
         }
       }
@@ -11021,13 +9485,7 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Resume"
-          }
-        },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Resume"
           }
         },
@@ -11051,7 +9509,7 @@
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Resume"
           }
         },
@@ -11063,7 +9521,7 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Resume"
           }
         },
@@ -11079,12 +9537,6 @@
             "value" : "Riprendi"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Gjenoppta"
-          }
-        },
         "nb-NO" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11094,13 +9546,13 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hervatten"
+            "value" : "Hervat"
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Wznowiono"
+            "state" : "new",
+            "value" : "Resume"
           }
         },
         "pt" : {
@@ -11111,14 +9563,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Resume"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Reluați"
           }
         },
         "ru" : {
@@ -11170,13 +9616,7 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Rewind"
-          }
-        },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Rewind"
           }
         },
@@ -11200,7 +9640,7 @@
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Rewind"
           }
         },
@@ -11212,13 +9652,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Rewind"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Rewind"
           }
         },
@@ -11226,12 +9666,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Riavvolgi"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Spole tilbake"
           }
         },
         "nb-NO" : {
@@ -11260,14 +9694,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Rewind"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Derulare"
           }
         },
         "ru" : {
@@ -11279,7 +9707,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rewind"
+            "value" : "Pretáčanie"
           }
         },
         "sv" : {
@@ -11308,7 +9736,7 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Rewind"
           }
         }
@@ -11323,16 +9751,10 @@
             "value" : "فشل ضبط راديو RileyLink"
           }
         },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "RileyLink radio tune failed"
-          }
-        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "RileyLink radioindstilling fejlede"
+            "value" : "RileyLink-radioindstilling fejlede"
           }
         },
         "de" : {
@@ -11361,13 +9783,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "RileyLink radio tune failed"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "RileyLink radio tune failed"
           }
         },
@@ -11375,18 +9797,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sintonizzazione radio RileyLink fallita"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "RileyLink 通信に失敗しました"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "RileyLink radiotuning feilet"
           }
         },
         "nb-NO" : {
@@ -11398,7 +9808,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Afstemmen van de RileyLink Radio mislukt"
+            "value" : "Afstemmen van de RileyLink frequentie mislukt"
           }
         },
         "pl" : {
@@ -11419,12 +9829,6 @@
             "value" : "A sintonia do rádio RileyLink falhou"
           }
         },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Eșec RileyLink la reglarea radio"
-          }
-        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11440,7 +9844,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "RileyLink radiosignal misslyckad"
+            "value" : "RileyLinks radiojustering misslyckades"
           }
         },
         "tr" : {
@@ -11605,20 +10009,8 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Select Profile"
-          }
-        },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Select Profile"
-          }
-        },
-        "cs" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Vybrat profil"
           }
         },
         "da" : {
@@ -11641,7 +10033,7 @@
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Select Profile"
           }
         },
@@ -11653,13 +10045,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Select Profile"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Select Profile"
           }
         },
@@ -11667,12 +10059,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Seleziona profilo"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Velg profil"
           }
         },
         "nb-NO" : {
@@ -11701,14 +10087,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Select Profile"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Alegeți profilul"
           }
         },
         "ru" : {
@@ -11720,7 +10100,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Select Profile"
+            "value" : "Vybrať profil"
           }
         },
         "sv" : {
@@ -11749,7 +10129,7 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Select Profile"
           }
         }
@@ -11762,18 +10142,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "فقدان الإشارة"
-          }
-        },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Signal Loss"
-          }
-        },
-        "cs" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ztráta signálu"
           }
         },
         "da" : {
@@ -11796,7 +10164,7 @@
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Signal Loss"
           }
         },
@@ -11808,26 +10176,20 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "אובדן אות"
+            "state" : "new",
+            "value" : "Signal Loss"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Signal Loss"
           }
         },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Perdita segnale"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Signal Tap"
+            "value" : "Perdita Di Segnale"
           }
         },
         "nb-NO" : {
@@ -11844,8 +10206,8 @@
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Utrata sygnału"
+            "state" : "new",
+            "value" : "Signal Loss"
           }
         },
         "pt" : {
@@ -11856,14 +10218,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Signal Loss"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pierdere de semnal"
           }
         },
         "ru" : {
@@ -11904,7 +10260,7 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Signal Loss"
           }
         }
@@ -11915,13 +10271,7 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Suspend"
-          }
-        },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Suspend"
           }
         },
@@ -11945,7 +10295,7 @@
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Suspend"
           }
         },
@@ -11957,7 +10307,7 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Suspend"
           }
         },
@@ -11971,12 +10321,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sospendi"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Utsette"
           }
         },
         "nb-NO" : {
@@ -11993,8 +10337,8 @@
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Wstrzymano"
+            "state" : "new",
+            "value" : "Suspend"
           }
         },
         "pt" : {
@@ -12005,20 +10349,14 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Suspend"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Suspendați"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Приостановка"
+            "value" : "Остановка"
           }
         },
         "sk" : {
@@ -12199,12 +10537,6 @@
             "value" : "الأساس المؤقت: %1$.3f U/ساعة"
           }
         },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Temporary Basal: %1$.3f U/hour"
-          }
-        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12214,7 +10546,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Temporäre Basalrate: %1$.3f IE/h"
+            "value" : "Temporäre Basalrate: %1$.3f E/St"
           }
         },
         "es" : {
@@ -12237,13 +10569,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Temporary Basal: %1$.3f U/hour"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Temporary Basal: %1$.3f U/hour"
           }
         },
@@ -12251,18 +10583,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Basale temporanea: %1$.3f U/ora"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "一時基礎レート: %1$.3f U/hour"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Midlertidig basaldose: %1$.3f E/timen"
           }
         },
         "nb-NO" : {
@@ -12280,7 +10600,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Baza tymczasowa: %1$.3f J/godzinę"
+            "value" : "Baza tymczasowa: %1$.3f J/godz"
           }
         },
         "pt" : {
@@ -12293,12 +10613,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Basal Temporária: %1$.3f U/hora"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Bazală temporară: %1$.3f U/oră"
           }
         },
         "ru" : {
@@ -12354,18 +10668,6 @@
             "value" : "الأساس المؤقت: %1$d U/ دقيقة"
           }
         },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Temporary Basal: %1$d min"
-          }
-        },
-        "cs" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Dočasný bazál: %1$d min"
-          }
-        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12404,7 +10706,7 @@
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Temporary Basal: %1$d min"
           }
         },
@@ -12412,18 +10714,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Basale temporanea: %1$d min"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "一時基礎レート: %1$d 分"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Midlertidig basaldose: %1$d min"
           }
         },
         "nb-NO" : {
@@ -12454,12 +10744,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Basal Temporária: %1$d min"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Bazală temporară: %1$d min"
           }
         },
         "ru" : {
@@ -12515,18 +10799,6 @@
             "value" : "الأساسي المؤقت: %1$d U/%%"
           }
         },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Temporary Basal: %1$d%%"
-          }
-        },
-        "cs" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Dočasný bazál: %1$d%%"
-          }
-        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12559,13 +10831,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "בזאלי זמני: %1$d%%"
+            "state" : "new",
+            "value" : "Temporary Basal: %1$d%%"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Temporary Basal: %1$d%%"
           }
         },
@@ -12573,18 +10845,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Basale temporanea: %1$d%%"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "一時基礎レート: %1$d%%"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Midlertidig basaldose: %1$d%%"
           }
         },
         "nb-NO" : {
@@ -12615,12 +10875,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Basal Temporária: %1$d%%"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Bazală temporară: %1$d%%"
           }
         },
         "ru" : {
@@ -12672,13 +10926,7 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Unable to store pump data"
-          }
-        },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Unable to store pump data"
           }
         },
@@ -12714,13 +10962,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Unable to store pump data"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Unable to store pump data"
           }
         },
@@ -12728,12 +10976,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Impossibile memorizzare i dati della pompa"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Kan ikke lagre pumpedata"
           }
         },
         "nb-NO" : {
@@ -12762,14 +11004,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Unable to store pump data"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Imposibil de salvat datele pompei"
           }
         },
         "ru" : {
@@ -12781,7 +11017,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unable to store pump data"
+            "value" : "Nie je možné uložiť údaje o pumpe"
           }
         },
         "sv" : {
@@ -12810,7 +11046,7 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Unable to store pump data"
           }
         }
@@ -12821,13 +11057,7 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Unexpected response %1$@"
-          }
-        },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Unexpected response %1$@"
           }
         },
@@ -12851,7 +11081,7 @@
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Unexpected response %1$@"
           }
         },
@@ -12863,13 +11093,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Unexpected response %1$@"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Unexpected response %1$@"
           }
         },
@@ -12877,12 +11107,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Risposta imprevista %1$@"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Uventet svar %1$@"
           }
         },
         "nb-NO" : {
@@ -12911,14 +11135,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Unexpected response %1$@"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Răspuns neașteptat %1$@"
           }
         },
         "ru" : {
@@ -12930,7 +11148,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unexpected response %1$@"
+            "value" : "Neočakávaná odpoveď %1$@"
           }
         },
         "sv" : {
@@ -12959,7 +11177,7 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Unexpected response %1$@"
           }
         }
@@ -12970,13 +11188,7 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Unknown Alarm"
-          }
-        },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Unknown Alarm"
           }
         },
@@ -13000,7 +11212,7 @@
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Unknown Alarm"
           }
         },
@@ -13012,13 +11224,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Unknown Alarm"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Unknown Alarm"
           }
         },
@@ -13026,12 +11238,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Allarme sconosciuto"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ukjent alarm"
           }
         },
         "nb-NO" : {
@@ -13060,14 +11266,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Unknown Alarm"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Alarmă necunoscută"
           }
         },
         "ru" : {
@@ -13079,7 +11279,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unknown Alarm"
+            "value" : "Neznámy alarm"
           }
         },
         "sv" : {
@@ -13108,7 +11308,7 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Unknown Alarm"
           }
         }
@@ -13119,13 +11319,7 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Unknown glucose record type: %$1@"
-          }
-        },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Unknown glucose record type: %$1@"
           }
         },
@@ -13161,13 +11355,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Unknown glucose record type: %$1@"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Unknown glucose record type: %$1@"
           }
         },
@@ -13175,12 +11369,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tipo di record glicemico sconosciuto: %$1@"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ukjent glukose registrering: %$1@"
           }
         },
         "nb-NO" : {
@@ -13209,14 +11397,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Unknown glucose record type: %$1@"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tip necunoscut de înregistrare glicemie: %$1@"
           }
         },
         "ru" : {
@@ -13228,7 +11410,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unknown glucose record type: %$1@"
+            "value" : "Neznámy typ záznamu glykémie: %$1@"
           }
         },
         "sv" : {
@@ -13257,7 +11439,7 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Unknown glucose record type: %$1@"
           }
         }
@@ -13268,13 +11450,7 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Unknown history record type: %$1@"
-          }
-        },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Unknown history record type: %$1@"
           }
         },
@@ -13310,13 +11486,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Unknown history record type: %$1@"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Unknown history record type: %$1@"
           }
         },
@@ -13324,12 +11500,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tipo di record storico sconosciuto: %$1@"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ukjent historieopptakstype: %$1@"
           }
         },
         "nb-NO" : {
@@ -13358,14 +11528,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Unknown history record type: %$1@"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tip necunoscut de înregistrare istoric: %$1@"
           }
         },
         "ru" : {
@@ -13377,7 +11541,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unknown history record type: %$1@"
+            "value" : "Neznámy typ záznamu histórie: %$1@"
           }
         },
         "sv" : {
@@ -13406,7 +11570,7 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Unknown history record type: %$1@"
           }
         }
@@ -13421,16 +11585,10 @@
             "value" : "رمز خطأ مضخة غير معروف: %1$@"
           }
         },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Unknown pump error code: %1$@"
-          }
-        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ukendt pumpe-fejlkode: %1$@"
+            "value" : "Ukendt pumpefejlkode: %1$@"
           }
         },
         "de" : {
@@ -13459,32 +11617,20 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Unknown pump error code: %1$@"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Unknown pump error code: %1$@"
           }
         },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Codice di errore della pompa sconosciuto: %1$@"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ポンプエラーコード 不明: %1$@"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ukjent feilkode fra pumpe: %1$@"
+            "value" : "Codice errore microinfusore sconosciuto: %1$@"
           }
         },
         "nb-NO" : {
@@ -13515,12 +11661,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Código de erro da bomba desconhecido: %1$@"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Cod de eroare pompă necunoscut: %1$@"
           }
         },
         "ru" : {
@@ -13556,7 +11696,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Không xác định lỗi của bơm: %1$@"
+            "value" : "Mã lỗi bơm không xác định: %1$@"
           }
         },
         "zh-Hans" : {
@@ -13575,16 +11715,10 @@
             "value" : "نَموذج مضخة غير معروف: %@"
           }
         },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Unknown pump model: %@"
-          }
-        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ukendt pumpemodel %@"
+            "value" : "Ukendt pumpemodel: %@"
           }
         },
         "de" : {
@@ -13613,32 +11747,20 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Unknown pump model: %@"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Unknown pump model: %@"
           }
         },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Modello di pompa sconosciuto: %@"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ポンプモデル 不明: %@"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ukjent pumpemodell: %@"
+            "value" : "Modello di microinfusore sconosciuto: %@"
           }
         },
         "nb-NO" : {
@@ -13669,12 +11791,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Modelo de bomba desconhecido: %@"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Model de pompă necunoscut: %@"
           }
         },
         "ru" : {
@@ -13710,7 +11826,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Không xác định mẫu bơm: %@"
+            "value" : "Không xác định được loại bơm %@"
           }
         },
         "zh-Hans" : {
@@ -13728,12 +11844,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "استجابة غير صحيحة خلال %1$@: %2$@"
-          }
-        },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Unknown response during %1$@: %2$@"
           }
         },
         "da" : {
@@ -13768,13 +11878,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Unknown response during %1$@: %2$@"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Unknown response during %1$@: %2$@"
           }
         },
@@ -13782,18 +11892,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Risposta sconosciuta per %1$@: %2$@"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "反応が不明 %1$@: %2$@"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ukjent respons ved %1$@: %2$@"
           }
         },
         "nb-NO" : {
@@ -13824,12 +11922,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Resposta desconhecida durante %1$@: %2$@"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Răspuns nerecunoscut în timpul %1$@: %2$@"
           }
         },
         "ru" : {
@@ -13865,7 +11957,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Phản hồi không xác định trong %1$@: %2$@"
+            "value" : "Phản hồi không xác định trong lúc %1$@: %2$@"
           }
         },
         "zh-Hans" : {
@@ -13885,16 +11977,10 @@
             "value" : "عالمي"
           }
         },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "World-Wide"
-          }
-        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "World-Wide"
+            "value" : "Globalt"
           }
         },
         "de" : {
@@ -13923,13 +12009,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "World-Wide"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "World-Wide"
           }
         },
@@ -13937,18 +12023,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Internazionale"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "World-Wide"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "World-Wide"
           }
         },
         "nb-NO" : {
@@ -13981,12 +12055,6 @@
             "value" : "Mundial"
           }
         },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Global"
-          }
-        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14008,7 +12076,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "World-Wide"
+            "value" : "Dünya Çapında"
           }
         },
         "uk" : {
