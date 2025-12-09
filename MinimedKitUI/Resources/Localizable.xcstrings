@@ -88,6 +88,12 @@
             "value" : "%@ dB"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%@ dB"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -214,6 +220,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%@U"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "%@U"
@@ -350,6 +362,12 @@
             "value" : "%1$@  %2$@/%3$@  %4$@"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@  %2$@/%3$@  %4$@"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -479,6 +497,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%1$@ entradas de basal programadas\n"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ basal schedule entries\n"
           }
         },
         "ru" : {
@@ -612,6 +636,12 @@
             "value" : "%1$@ Unidades de insulina restantes\n"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ Units of insulin remaining\n"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -743,6 +773,12 @@
             "value" : "%1$@ unidades restantes em %2$@"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ units remaining at %2$@"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -869,6 +905,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@%2$@%3$@"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "%1$@%2$@%3$@"
@@ -1005,6 +1047,12 @@
             "value" : "Adjusting Pump Time..."
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Adjusting Pump Time..."
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1134,6 +1182,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Baterias alcalinas e de lítio descarregam de formas diferentes. Baterias alcalinas tendem a perder voltagem linearmente, enquanto baterias de célula de lítio tendem a manter a voltagem até metade de sua vida útil. Em condições normais de uso do Loop em uma bomba Minimed que não utiliza o MySentry (x22/x15), baterias alcalinas devem durar entre 4 e 5 dias. Baterias de lítio duram entre 1 e 2 semanas. Essa seleção vai utilizar diferentes taxas de descarregamento para cada tipo de bateria e alertar o usuário quando a bateria estiver entre 8 e 10 horas de falhar."
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Alkaline and Lithium batteries decay at differing rates. Alkaline tend to have a linear voltage drop over time whereas lithium cell batteries tend to maintain voltage until halfway through their lifespan. Under normal usage in a Non-MySentry compatible Minimed (x22/x15) insulin pump running Loop, Alkaline batteries last approximately 4 to 5 days. Lithium batteries last between 1-2 weeks. This selection will use different battery voltage decay rates for each of the battery chemistry types and alert the user when a battery is approximately 8 to 10 hours from failure."
           }
         },
         "ru" : {
@@ -1267,6 +1321,12 @@
             "value" : "Are you sure you want to delete this Pump?"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Are you sure you want to delete this Pump?"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1392,6 +1452,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Battery Chemistry"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Battery Chemistry"
@@ -1528,6 +1594,12 @@
             "value" : "Bateria: %1$@ volts\n"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Battery: %1$@ volts\n"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1657,6 +1729,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Melhor Frequência"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Best Frequency"
           }
         },
         "ru" : {
@@ -1790,6 +1868,12 @@
             "value" : "Injetando Bolus: %1$@\n"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Bolusing: %1$@\n"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1919,6 +2003,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cancelar"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Cancel"
           }
         },
         "ru" : {
@@ -2052,6 +2142,12 @@
             "value" : "Cancelar Basal Temporária"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Canceling Temp Basal"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2178,6 +2274,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Changing"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Changing"
@@ -2314,6 +2416,12 @@
             "value" : "Alterando a hora..."
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Changing time…"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2440,6 +2548,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Choose the type of battery you are using in your pump for better alerting about low battery conditions."
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Choose the type of battery you are using in your pump for better alerting about low battery conditions."
@@ -2576,6 +2690,12 @@
             "value" : "Ajustes"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Configuration"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2705,6 +2825,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Conectar"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Connect"
           }
         },
         "ru" : {
@@ -2838,6 +2964,12 @@
             "value" : "Continuar"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Continue"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2967,6 +3099,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Deletar Bomba"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Delete Pump"
           }
         },
         "ru" : {
@@ -3100,6 +3238,12 @@
             "value" : "Dispositivos"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Devices"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3226,6 +3370,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Do not use MySentry"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Do not use MySentry"
@@ -3361,6 +3511,12 @@
             "value" : "OK"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Done"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3490,6 +3646,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Erro ao Retomar"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Error Resuming"
           }
         },
         "ru" : {
@@ -3623,6 +3785,12 @@
             "value" : "Erro ao Suspender"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Error Suspending"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3749,6 +3917,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Error Syncing Time"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Error Syncing Time"
@@ -3885,6 +4059,12 @@
             "value" : "Buscando glicose…"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Fetching glucose…"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4014,6 +4194,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "`Buscando histórico…"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Fetching history…"
           }
         },
         "ru" : {
@@ -4147,6 +4333,12 @@
             "value" : "Buscando modelo da bomba..."
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Fetching pump model…"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4273,6 +4465,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Firmware Version"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Firmware Version"
@@ -4409,6 +4607,12 @@
             "value" : "Insulina\nSuspenso"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Insulin\nSuspended"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4535,6 +4739,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Insulin Delivery"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Insulin Delivery"
@@ -4671,6 +4881,12 @@
             "value" : "A quantidade de insulina utilizada pode ser determinada tanto interpretando o histórico de eventos quanto medindo a diferença no volume do reservatório. Ler a partir do histórico de eventos permite um gráfico de estado mais preciso e o envio de dados de tratamento mais atualizados para o Nightscout, mas com um maior gasto de bateria e com uma maior possibilidade de erros de transmissão, quando comparado com a leitura apenas do volume do reservatório. Se a fonte selecionada não puder ser utilizada por algum motivo, o sistema tentará a outra opção."
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Insulin delivery can be determined from the pump by either interpreting the event history or comparing the reservoir volume over time. Reading event history allows for a more accurate status graph and uploading up-to-date treatment data to Nightscout, at the cost of faster pump battery drain and the possibility of a higher radio error rate compared to reading only reservoir volume. If the selected source cannot be used for any reason, the system will attempt to fall back to the other option."
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4797,6 +5013,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Insulin Remaining"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Insulin Remaining"
@@ -4933,6 +5155,12 @@
             "value" : "Tipo de Insulina"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Insulin Type"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5059,6 +5287,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Medtronic %1$@"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Medtronic %1$@"
@@ -5195,6 +5429,12 @@
             "value" : "Medtronic pump models 523, 723, 554, and 754 have a feature called 'MySentry' that periodically broadcasts the reservoir and pump battery levels.  Listening for these broadcasts allows Loop to communicate with the pump less frequently, which can increase pump battery life.  However, when using this feature the RileyLink stays awake more of the time and uses more of its own battery.  Enabling this may lengthen pump battery life, while disabling it may lengthen RileyLink battery life. This setting is ignored for other pump models."
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Medtronic pump models 523, 723, 554, and 754 have a feature called 'MySentry' that periodically broadcasts the reservoir and pump battery levels.  Listening for these broadcasts allows Loop to communicate with the pump less frequently, which can increase pump battery life.  However, when using this feature the RileyLink stays awake more of the time and uses more of its own battery.  Enabling this may lengthen pump battery life, while disabling it may lengthen RileyLink battery life. This setting is ignored for other pump models."
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5321,6 +5561,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "No"
@@ -5457,6 +5703,12 @@
             "value" : "Sem Resposta"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No response"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5583,6 +5835,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No, Keep Pump As Is"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "No, Keep Pump As Is"
@@ -5719,6 +5977,12 @@
             "value" : "Na sua Bomba, vá para a tela de encontrar dispositivos (Find Device) e selecione \"Encontrar Dispositivo\" (Find Device).\n\nMenu Principal >\nUtilitários (Utilities) >\nConectar Dispositivos (Connect Devices)\nOutros Dispositivos (Other Devices) >\nLigar (On) >\nEncontrar Dispositivo (Find Device)"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "On your pump, go to the Find Device screen and select \"Find Device\".\n\nMain Menu >\nUtilities >\nConnect Devices >\nOther Devices >\nOn >\nFind Device"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5850,6 +6114,12 @@
             "value" : "Fonte de Dados Preferido"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Preferred Data Source"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5976,6 +6246,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Pump Battery Remaining"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Pump Battery Remaining"
@@ -6112,6 +6388,12 @@
             "value" : "Tipo de Bateria da Bomba"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Pump Battery Type"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6243,6 +6525,12 @@
             "value" : "ID da Bomba"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Pump ID"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6369,6 +6657,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Pump Time"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Pump Time"
@@ -6505,6 +6799,12 @@
             "value" : "Lendo programação de basal…"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Reading basal schedule…"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6634,6 +6934,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Lendo estado da bomba…"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Reading pump status…"
           }
         },
         "ru" : {
@@ -6767,6 +7073,12 @@
             "value" : "Região"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Region"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6896,6 +7208,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Retomar Entrega"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Resume Delivery"
           }
         },
         "ru" : {
@@ -7029,6 +7347,12 @@
             "value" : "Retomando"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Resuming"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7155,6 +7479,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Retry"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Retry"
@@ -7291,6 +7621,12 @@
             "value" : "Scheduled Basal"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Scheduled Basal"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7417,6 +7753,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Select the type of insulin that you will be using in this pump."
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Select the type of insulin that you will be using in this pump."
@@ -7553,6 +7895,12 @@
             "value" : "Enviando aperto do botão"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Sending button press…"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7682,6 +8030,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Iniciando Temp Basal"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Starting Temp Basal"
           }
         },
         "ru" : {
@@ -7815,6 +8169,12 @@
             "value" : "Completo"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Succeeded"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7944,6 +8304,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Suspender Entrega"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Suspend Delivery"
           }
         },
         "ru" : {
@@ -8077,6 +8443,12 @@
             "value" : "Suspenso: %1$@\n"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Suspended: %1$@\n"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8208,6 +8580,12 @@
             "value" : "Suspendendo"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Suspending"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8334,6 +8712,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Sync to Current Time"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Sync to Current Time"
@@ -8470,6 +8854,12 @@
             "value" : "The time on your pump is different from the current time. Do you want to update the time on your pump to the current time?"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "The time on your pump is different from the current time. Do you want to update the time on your pump to the current time?"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8596,6 +8986,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Time Change Detected"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Time Change Detected"
@@ -8732,6 +9128,12 @@
             "value" : "Tentativas"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Trials"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8863,6 +9265,12 @@
             "value" : "Sintonizando frequência…"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Tuning radio…"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8989,6 +9397,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "U/hr"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "U/hr"
@@ -9125,6 +9539,12 @@
             "value" : "unknown"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "unknown"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9256,6 +9676,12 @@
             "value" : "Desconhecido"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Unknown"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9382,6 +9808,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Use MySentry"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Use MySentry"
@@ -9518,6 +9950,12 @@
             "value" : "Yes"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Yes"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9644,6 +10082,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Yes, Sync to Current Time"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Yes, Sync to Current Time"
