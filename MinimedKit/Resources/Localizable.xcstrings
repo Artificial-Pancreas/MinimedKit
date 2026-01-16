@@ -1223,7 +1223,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hồ sơ liều Basal %1$@: %2$@ U/giờ"
+            "value" : "Cấu hình liều nền %1$@: %2$@ U/giờ"
           }
         },
         "zh-Hans" : {
@@ -2593,7 +2593,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Huỷ bỏ liều cơ bản tạm thời"
+            "value" : "Huỷ bỏ liều nền tạm thời"
           }
         },
         "zh-Hans" : {
@@ -2730,7 +2730,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Thay đổi lịch trình cấu hình Basal"
+            "value" : "Thay đổi lịch trình cấu hình liều nền"
           }
         },
         "zh-Hans" : {
@@ -3415,7 +3415,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kiểm tra và đảm bảo bơm không tạm ngưng hoặc đang bơm hoặc đang thực hiện liều basal tạm thời"
+            "value" : "Kiểm tra và đảm bảo bơm không tạm ngưng hoặc đang bơm hoặc đang thực hiện liều nền tạm thời"
           }
         },
         "zh-Hans" : {
@@ -8100,7 +8100,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Phần trăm Basal tạm thời"
+            "value" : "Phần trăm liều nền tạm thời"
           }
         },
         "zh-Hans" : {
@@ -10449,7 +10449,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Đã lên chương trình cho liều Basal"
+            "value" : "Đã lên chương trình cho liều nền"
           }
         },
         "zh-Hans" : {
@@ -11134,7 +11134,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Liều Basal tạm thời: %1$.3f U/giờ"
+            "value" : "Liều nền tạm thời: %1$.3f U/giờ"
           }
         },
         "zh-Hans" : {
@@ -11271,7 +11271,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Liều Basal tạm thời: %1$d phút"
+            "value" : "Liều nền tạm thời: %1$d phút"
           }
         },
         "zh-Hans" : {
@@ -11408,7 +11408,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Liều Basal tạm thời: %1$d%%"
+            "value" : "Liều nền tạm thời: %1$d%%"
           }
         },
         "zh-Hans" : {

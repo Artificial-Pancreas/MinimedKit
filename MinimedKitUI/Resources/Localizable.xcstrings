@@ -2181,7 +2181,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Đang hủy liều Basal tạm thời"
+            "value" : "Đang hủy liều nền tạm thời"
           }
         },
         "zh-Hans" : {
@@ -7660,7 +7660,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Đã lên chương trình cho liều Basal"
+            "value" : "Đã lên chương trình cho liều nền"
           }
         },
         "zh-Hans" : {
@@ -8071,7 +8071,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Đang bắt đầu liều Basal tạm thời"
+            "value" : "Đang bắt đầu liều nền tạm thời"
           }
         },
         "zh-Hans" : {
