@@ -1223,7 +1223,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cấu hình liều nền %1$@: %2$@ U/giờ"
+            "value" : "Hồ sơ liều nền %1$@: %2$@ U/giờ"
           }
         },
         "zh-Hans" : {
