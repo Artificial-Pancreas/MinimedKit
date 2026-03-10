@@ -143,13 +143,7 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "%@U"
-          }
-        },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%@U"
           }
         },
@@ -185,13 +179,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%@U"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%@U"
           }
         },
@@ -227,13 +221,13 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%@U"
           }
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%@U"
           }
         },
@@ -275,7 +269,7 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%@U"
           }
         }
@@ -697,13 +691,7 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "%1$@ units remaining at %2$@"
-          }
-        },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%1$@ units remaining at %2$@"
           }
         },
@@ -739,13 +727,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%1$@ units remaining at %2$@"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%1$@ units remaining at %2$@"
           }
         },
@@ -787,8 +775,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "%1$@ unități rămase la %2$@"
+            "state" : "new",
+            "value" : "%1$@ units remaining at %2$@"
           }
         },
         "ru" : {
@@ -829,7 +817,7 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%1$@ units remaining at %2$@"
           }
         }
@@ -1513,8 +1501,8 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "电池类型"
+            "state" : "new",
+            "value" : "Battery Chemistry"
           }
         }
       }
@@ -2207,22 +2195,136 @@
     "Cannula Age" : {
       "comment" : "Text for time since last medtronic pump set change event",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Cannula Age"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Cannula Age"
+          }
+        },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Alter der Kanüle"
+            "state" : "new",
+            "value" : "Cannula Age"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Cannula Age"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Cannula Age"
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Age de la canule"
+            "state" : "new",
+            "value" : "Cannula Age"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Cannula Age"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Cannula Age"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Cannula Age"
+          }
+        },
+        "nb-NO" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Cannula Age"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Cannula Age"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Cannula Age"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Cannula Age"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Cannula Age"
           }
         },
         "ro" : {
           "stringUnit" : {
+            "state" : "new",
+            "value" : "Cannula Age"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Cannula Age"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Cannula Age"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
             "state" : "translated",
-            "value" : "Vârsta canulei"
+            "value" : "Kanylålder (CAGE)"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Cannula Age"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Cannula Age"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Cannula Age"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Cannula Age"
           }
         }
       }
@@ -2647,12 +2749,6 @@
             "value" : "ضبط"
           }
         },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Configuration"
-          }
-        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2673,7 +2769,7 @@
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Configuration"
           }
         },
@@ -2685,7 +2781,7 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Configuration"
           }
         },
@@ -2715,7 +2811,7 @@
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Configuration"
           }
         },
@@ -2733,8 +2829,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Configurare"
+            "state" : "new",
+            "value" : "Configuration"
           }
         },
         "ru" : {
@@ -2790,12 +2886,6 @@
             "value" : "توصيل"
           }
         },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Connect"
-          }
-        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2828,7 +2918,7 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Connect"
           }
         },
@@ -2876,8 +2966,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Conectare"
+            "state" : "new",
+            "value" : "Connect"
           }
         },
         "ru" : {
@@ -2933,12 +3023,6 @@
             "value" : "تابع"
           }
         },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Continue"
-          }
-        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2971,13 +3055,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Continue"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Continue"
           }
         },
@@ -3019,8 +3103,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Continuați"
+            "state" : "new",
+            "value" : "Continue"
           }
         },
         "ru" : {
@@ -3070,10 +3154,34 @@
     "day" : {
       "comment" : "Singular day unit",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "يوم"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "dag"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tag"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "día"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "day"
           }
         },
         "fr" : {
@@ -3082,10 +3190,100 @@
             "value" : "jour"
           }
         },
-        "ro" : {
+        "he" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "day"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "day"
+          }
+        },
+        "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "zi"
+            "value" : "giorno"
+          }
+        },
+        "nb-NO" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "dag"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "dag"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "day"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "day"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "day"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "day"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "день"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "deň"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "dag"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "gün"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "день"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ngày"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "天"
           }
         }
       }
@@ -3093,10 +3291,34 @@
     "days" : {
       "comment" : "Plural days unit",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "days"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "dage"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tage"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "días"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "days"
           }
         },
         "fr" : {
@@ -3105,10 +3327,100 @@
             "value" : "jours"
           }
         },
-        "ro" : {
+        "he" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "days"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "days"
+          }
+        },
+        "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "zile"
+            "value" : "giorni"
+          }
+        },
+        "nb-NO" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "dager"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "dagen"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "days"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "days"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "days"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "days"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "дней"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "dni"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "dagar"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "gün"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "дні"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "days"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "days"
           }
         }
       }
@@ -3120,12 +3432,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "حذف المضخة"
-          }
-        },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Delete Pump"
           }
         },
         "da" : {
@@ -3160,13 +3466,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Delete Pump"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Delete Pump"
           }
         },
@@ -3208,8 +3514,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ștergeți pompa"
+            "state" : "new",
+            "value" : "Delete Pump"
           }
         },
         "ru" : {
@@ -3259,22 +3565,136 @@
     "Details" : {
       "comment" : "The title of the details section in MinimedPumpManager settings",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Details"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Details"
+          }
+        },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
+            "value" : "Details"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Details"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "new",
             "value" : "Details"
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Détails"
+            "state" : "new",
+            "value" : "Details"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Details"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Details"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Details"
+          }
+        },
+        "nb-NO" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Details"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Details"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Details"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Details"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Details"
           }
         },
         "ro" : {
           "stringUnit" : {
+            "state" : "new",
+            "value" : "Details"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Details"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Details"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
             "state" : "translated",
-            "value" : "Detalii"
+            "value" : "Detaljer"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Details"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Details"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Details"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Details"
           }
         }
       }
@@ -3561,12 +3981,6 @@
             "value" : "تمّ"
           }
         },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Done"
-          }
-        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3599,7 +4013,7 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Done"
           }
         },
@@ -3629,7 +4043,7 @@
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Done"
           }
         },
@@ -3647,8 +4061,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Realizat"
+            "state" : "new",
+            "value" : "Done"
           }
         },
         "ru" : {
@@ -3837,7 +4251,7 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Error Suspending"
           }
         },
@@ -4648,8 +5062,8 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "固件版本"
+            "state" : "new",
+            "value" : "Firmware Version"
           }
         }
       }
@@ -4657,10 +5071,34 @@
     "hour" : {
       "comment" : "Singular hour unit",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ساعة"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "time"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Stunde"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hora"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "hour"
           }
         },
         "fr" : {
@@ -4669,10 +5107,100 @@
             "value" : "heure"
           }
         },
-        "ro" : {
+        "he" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "hour"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "hour"
+          }
+        },
+        "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "oră"
+            "value" : "ora"
+          }
+        },
+        "nb-NO" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "time"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "uur"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "hour"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "hour"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "hour"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "hour"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "час"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hodina"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "timme"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "saat"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "годин"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hours"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "小时"
           }
         }
       }
@@ -4680,10 +5208,34 @@
     "hours" : {
       "comment" : "Plural hours unit",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ساعات"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "timer"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Stunden"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "horas"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "hours"
           }
         },
         "fr" : {
@@ -4692,10 +5244,100 @@
             "value" : "heures"
           }
         },
-        "ro" : {
+        "he" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "hours"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "óra"
+          }
+        },
+        "it" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "ore"
+          }
+        },
+        "nb-NO" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "timer"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "uren"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "hours"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "horas"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "horas"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "hours"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "часов"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hodiny"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "timmar"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "saat"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "годин"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hours"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "小时"
           }
         }
       }
@@ -4755,12 +5397,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Insulina \nSospesa"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Insulintilførsel pauset"
           }
         },
         "nb-NO" : {
@@ -4846,22 +5482,136 @@
     "Insulin Age" : {
       "comment" : "Text for time since last medtronic pump rewind event",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Insulin Age"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Insulin Age"
+          }
+        },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Alter des Insulins"
+            "state" : "new",
+            "value" : "Insulin Age"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Insulin Age"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Insulin Age"
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Age de l'insuline"
+            "state" : "new",
+            "value" : "Insulin Age"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Insulin Age"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Insulin Age"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Insulin Age"
+          }
+        },
+        "nb-NO" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Insulin Age"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Insulin Age"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Insulin Age"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Insulin Age"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Insulin Age"
           }
         },
         "ro" : {
           "stringUnit" : {
+            "state" : "new",
+            "value" : "Insulin Age"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Insulin Age"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Insulin Age"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
             "state" : "translated",
-            "value" : "Vârsta insulinei"
+            "value" : "Insulinålder (IAGE)"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Insulin Age"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Insulin Age"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Insulin Age"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Insulin Age"
           }
         }
       }
@@ -4873,12 +5623,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "توصيل الأنسولين"
-          }
-        },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Insulin Delivery"
           }
         },
         "da" : {
@@ -4901,7 +5645,7 @@
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Insulin Delivery"
           }
         },
@@ -4913,13 +5657,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Insulin Delivery"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Insulin Delivery"
           }
         },
@@ -4943,7 +5687,7 @@
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Insulin Delivery"
           }
         },
@@ -4955,14 +5699,14 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Insulin Delivery"
           }
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Administrarea insulinei"
+            "state" : "new",
+            "value" : "Insulin Delivery"
           }
         },
         "ru" : {
@@ -5155,12 +5899,6 @@
             "value" : "الأنسولين المتبقي"
           }
         },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Insulin Remaining"
-          }
-        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5181,7 +5919,7 @@
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Insulin Remaining"
           }
         },
@@ -5193,13 +5931,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Insulin Remaining"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Insulin Remaining"
           }
         },
@@ -5223,7 +5961,7 @@
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Insulin Remaining"
           }
         },
@@ -5235,14 +5973,14 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Insulin Remaining"
           }
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Insulină rămasă"
+            "state" : "new",
+            "value" : "Insulin Remaining"
           }
         },
         "ru" : {
@@ -5298,12 +6036,6 @@
             "value" : "نوع الإنسولين"
           }
         },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Insulin Type"
-          }
-        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5324,7 +6056,7 @@
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Insulin Type"
           }
         },
@@ -5336,13 +6068,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Insulin Type"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Insulin Type"
           }
         },
@@ -5366,7 +6098,7 @@
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Insulin Type"
           }
         },
@@ -5384,8 +6116,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tip de insulină"
+            "state" : "new",
+            "value" : "Insulin Type"
           }
         },
         "ru" : {
@@ -5715,12 +6447,6 @@
             "value" : "لا"
           }
         },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "No"
-          }
-        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5753,7 +6479,7 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "No"
           }
         },
@@ -5783,7 +6509,7 @@
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "No"
           }
         },
@@ -5795,14 +6521,14 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "No"
           }
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Nu"
+            "state" : "new",
+            "value" : "No"
           }
         },
         "ru" : {
@@ -5825,7 +6551,7 @@
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "No"
           }
         },
@@ -5843,7 +6569,7 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "No"
           }
         }
@@ -5995,12 +6721,6 @@
             "value" : "لا، إبقاء المضخة كما هي"
           }
         },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "No, Keep Pump As Is"
-          }
-        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6021,7 +6741,7 @@
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "No, Keep Pump As Is"
           }
         },
@@ -6033,13 +6753,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "No, Keep Pump As Is"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "No, Keep Pump As Is"
           }
         },
@@ -6063,7 +6783,7 @@
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "No, Keep Pump As Is"
           }
         },
@@ -6075,14 +6795,14 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "No, Keep Pump As Is"
           }
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Nu, păstrați pompa așa cum este"
+            "state" : "new",
+            "value" : "No, Keep Pump As Is"
           }
         },
         "ru" : {
@@ -6123,7 +6843,7 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "No, Keep Pump As Is"
           }
         }
@@ -6218,8 +6938,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pe pompă, accesați ecranul Găsire dispozitiv și selectați „Găsire dispozitiv”. \n \n Meniu principal > \n Utilitare > \n Conectare dispozitive > \n Alte dispozitive > \n Activat > \n Găsire dispozitiv"
+            "state" : "new",
+            "value" : "On your pump, go to the Find Device screen and select \"Find Device\".\n\nMain Menu >\nUtilities >\nConnect Devices >\nOther Devices >\nOn >\nFind Device"
           }
         },
         "ru" : {
@@ -7782,12 +8502,6 @@
             "value" : "الجرعة الأساسية المجدولة"
           }
         },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Scheduled Basal"
-          }
-        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7808,7 +8522,7 @@
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Scheduled Basal"
           }
         },
@@ -7820,13 +8534,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Scheduled Basal"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Scheduled Basal"
           }
         },
@@ -7850,7 +8564,7 @@
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Scheduled Basal"
           }
         },
@@ -7862,14 +8576,14 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Scheduled Basal"
           }
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Bazală programată"
+            "state" : "new",
+            "value" : "Scheduled Basal"
           }
         },
         "ru" : {
@@ -7925,12 +8639,6 @@
             "value" : "حدد نوع الأنسولين الذي ستستخدمه في هذه المضخة."
           }
         },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Select the type of insulin that you will be using in this pump."
-          }
-        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7963,13 +8671,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Select the type of insulin that you will be using in this pump."
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Select the type of insulin that you will be using in this pump."
           }
         },
@@ -8005,14 +8713,14 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Select the type of insulin that you will be using in this pump."
           }
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Selectați tipul de insulină pe care îl veți utiliza în această pompă."
+            "state" : "new",
+            "value" : "Select the type of insulin that you will be using in this pump."
           }
         },
         "ru" : {
@@ -8053,7 +8761,7 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Select the type of insulin that you will be using in this pump."
           }
         }
@@ -8191,7 +8899,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "正在发送按键指令…"
+            "value" : "正在发送亮屏指令…"
           }
         }
       }
@@ -8336,10 +9044,34 @@
     "Status" : {
       "comment" : "The title of the status section in MinimedPumpManager settings",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الحالة"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Status"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Status"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Estado"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tila"
           }
         },
         "fr" : {
@@ -8348,10 +9080,100 @@
             "value" : "Statut"
           }
         },
-        "ro" : {
+        "he" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Status"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Status"
+          }
+        },
+        "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Stare"
+            "value" : "Stato"
+          }
+        },
+        "nb-NO" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Status"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Status"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Status"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Status"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Estado"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Status"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Статус"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stav"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Status"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Durum"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Статус"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tình trạng"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "状态"
           }
         }
       }
@@ -9447,7 +10269,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "试验"
+            "value" : "尝试"
           }
         }
       }
@@ -9598,12 +10420,6 @@
             "value" : "وحدة لكل ساعة"
           }
         },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "U/hr"
-          }
-        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9624,7 +10440,7 @@
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "U/hr"
           }
         },
@@ -9636,7 +10452,7 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "U/hr"
           }
         },
@@ -9666,7 +10482,7 @@
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "U/hr"
           }
         },
@@ -9678,14 +10494,14 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "U/hr"
           }
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "U/oră"
+            "state" : "new",
+            "value" : "U/hr"
           }
         },
         "ru" : {
@@ -9874,13 +10690,7 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Unknown"
-          }
-        },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Unknown"
           }
         },
@@ -9916,7 +10726,7 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Unknown"
           }
         },
@@ -9964,8 +10774,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Necunoscut"
+            "state" : "new",
+            "value" : "Unknown"
           }
         },
         "ru" : {
@@ -10232,7 +11042,7 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Yes"
           }
         },
@@ -10417,8 +11227,8 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "是，同步到当前时间"
+            "state" : "new",
+            "value" : "Yes, Sync to Current Time"
           }
         }
       }

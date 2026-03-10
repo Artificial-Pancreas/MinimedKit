@@ -1791,12 +1791,6 @@
             "value" : "الجرعة"
           }
         },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Bolus"
-          }
-        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1829,7 +1823,7 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Bolus"
           }
         },
@@ -1859,7 +1853,7 @@
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Bolus"
           }
         },
@@ -1871,13 +1865,13 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Bolus"
           }
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Bolus"
           }
         },
@@ -1901,7 +1895,7 @@
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Bolus"
           }
         },
@@ -5238,13 +5232,7 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Insulin Suspended"
-          }
-        },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Insulin Suspended"
           }
         },
@@ -5268,7 +5256,7 @@
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Insulin Suspended"
           }
         },
@@ -5280,13 +5268,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Insulin Suspended"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Insulin Suspended"
           }
         },
@@ -5310,7 +5298,7 @@
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Insulin Suspended"
           }
         },
@@ -5322,14 +5310,14 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Insulin Suspended"
           }
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Administrarea insulinei suspendată"
+            "state" : "new",
+            "value" : "Insulin Suspended"
           }
         },
         "ru" : {
@@ -5370,7 +5358,7 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Insulin Suspended"
           }
         }
@@ -7981,7 +7969,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "OK"
+            "value" : "Ok"
           }
         }
       }
@@ -8499,7 +8487,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pump Battery Low"
+            "value" : "Nízky stav batérie pumpy"
           }
         },
         "sv" : {
@@ -8623,8 +8611,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pompa nu a răspuns"
+            "state" : "new",
+            "value" : "Pump did not respond"
           }
         },
         "ru" : {
@@ -9191,7 +9179,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pump Reservoir Empty"
+            "value" : "Zásobník pumpy je prázdny"
           }
         },
         "sv" : {
@@ -9328,7 +9316,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pump Reservoir Low"
+            "value" : "Nízka úroveň zásobniku pumpy"
           }
         },
         "sv" : {
@@ -10344,12 +10332,6 @@
             "value" : "الجرعة الأساسية المجدولة"
           }
         },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Scheduled Basal"
-          }
-        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10370,7 +10352,7 @@
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Scheduled Basal"
           }
         },
@@ -10382,13 +10364,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Scheduled Basal"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Scheduled Basal"
           }
         },
@@ -10412,7 +10394,7 @@
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Scheduled Basal"
           }
         },
@@ -10424,14 +10406,14 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Scheduled Basal"
           }
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Bazală programată"
+            "state" : "new",
+            "value" : "Scheduled Basal"
           }
         },
         "ru" : {
@@ -10746,8 +10728,8 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "信号丢失"
+            "state" : "new",
+            "value" : "Signal Loss"
           }
         }
       }
@@ -10894,13 +10876,7 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Temp Basal"
-          }
-        },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Temp Basal"
           }
         },
@@ -10924,7 +10900,7 @@
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Temp Basal"
           }
         },
@@ -10936,13 +10912,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Temp Basal"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Temp Basal"
           }
         },
@@ -10966,7 +10942,7 @@
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Temp Basal"
           }
         },
@@ -10978,14 +10954,14 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Temp Basal"
           }
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Bazală temporară"
+            "state" : "new",
+            "value" : "Temp Basal"
           }
         },
         "ru" : {
