@@ -9303,8 +9303,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Pump Reservoir Low"
+            "state" : "translated",
+            "value" : "Rezervorul pompei este scăzut"
           }
         },
         "ru" : {

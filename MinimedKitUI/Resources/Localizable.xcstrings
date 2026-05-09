@@ -4061,8 +4061,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Done"
+            "state" : "translated",
+            "value" : "Gata"
           }
         },
         "ru" : {
@@ -5842,8 +5842,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Insulin delivery can be determined from the pump by either interpreting the event history or comparing the reservoir volume over time. Reading event history allows for a more accurate status graph and uploading up-to-date treatment data to Nightscout, at the cost of faster pump battery drain and the possibility of a higher radio error rate compared to reading only reservoir volume. If the selected source cannot be used for any reason, the system will attempt to fall back to the other option."
+            "state" : "translated",
+            "value" : "Livrarea insulinei poate fi determinată din interpretarea istoricului citit din pompă sau analizând nivelul rezervorului în timp. Citirea istoricului de evenimente permite o construcție mai exacta a graficului și încărcarea datelor actualizate în Nightscout cu prețul descărcării mai rapide a bateriei pompei si a probabilității mai mari de erori de transmisie radio, comparând cu citire numai a nivelului rezervorului. Dacă dintr-o cauză sau alta sistemul nu va reuși să folosească opțiunea aleasă, se va încerca revenirea la cealaltă posibilitate."
           }
         },
         "ru" : {
