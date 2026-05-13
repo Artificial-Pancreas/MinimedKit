@@ -2257,8 +2257,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Cannula Age"
+            "state" : "translated",
+            "value" : "Canule leeftijd (CAGE)"
           }
         },
         "pl" : {
@@ -2317,8 +2317,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Cannula Age"
+            "state" : "translated",
+            "value" : "Đã dùng Cannula"
           }
         },
         "zh-Hans" : {
@@ -3627,7 +3627,7 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Details"
           }
         },
@@ -3687,8 +3687,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Details"
+            "state" : "translated",
+            "value" : "Chi tiết"
           }
         },
         "zh-Hans" : {
@@ -5544,8 +5544,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Insulin Age"
+            "state" : "translated",
+            "value" : "Insuline leeftijd"
           }
         },
         "pl" : {
@@ -5604,8 +5604,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Insulin Age"
+            "state" : "translated",
+            "value" : "Đã dùng Insulin"
           }
         },
         "zh-Hans" : {
